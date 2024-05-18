@@ -67,7 +67,11 @@ Garrett & Neufeld (2009), [Invalid Forensic Science Testimony and Wrongful Convi
 
 # Non probabilistic evidence assessment and decision-making
 
-# How to improve accuracy of assessments, predictions and decisions
+Anderson (1981), [Legal Judgment as Information integration, Chapter 4](https://psychology.ucsd.edu/_files/norman-anderson-book/Chapter%204.pdf)
+
+> I believe from the 1981 book *Foundations of information integration theory* by Norman Henry Anderson.
+
+> # How to improve accuracy of assessments, predictions and decisions
 
 Tetlock & others (2015), [The Psychology of Intelligence Analysis: Drivers of Prediction Accuracy in World Politics](https://www.apa.org/pubs/journals/releases/xap-0000040.pdf)
 
