@@ -87,4 +87,8 @@ Wilcox & Mandel, [Critical Review of the Analysis of Competing Hypotheses Techni
 
 > Article showing how the method known as Analysis of Competing Hypotheses (ACH) does not lead to good predictions in intelligence analysis. One of the culprits is the odd assessment of the probability of hypotheses in which only inconsitency with the evidence counts against the hypothesis, but not confirmation. According to ACH, first, competing hypotheses and items of evidence must be listed, and then second, hypotheses are scored by counting how many items of evidence they are inconsistent with. The greater the number of inconsistencies for a hypothesis, the lower the probability of the hypothesis.
 
-> COMMENT: This does not seem to work for intelligence analysis because you have a lot of false negatives. But does it work for criminal trials where the key is to avoid convicting the innocent?  
+> COMMENT: This does not seem to work for intelligence analysis because you have a lot of false negatives. But does it work for criminal trials where the key is to avoid convicting the innocent?
+
+Wilcox (2022), [Human Judgment: How Accurate Is It, and How Can It Get Better?](https://link.springer.com/book/10.1007/978-3-031-19205-0)
+
+> TBR. Self explanatory title!
