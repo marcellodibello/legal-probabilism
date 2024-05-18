@@ -29,4 +29,16 @@ Garrett & Neufeld (2009), [Invalid Forensic Science Testimony and Wrongful Convi
 
 # Non probabilistic evidence assessment and decision-making
 
-# How to improve accuracy of predictions and decisions
+# How to improve accuracy of assessments, predictions and decisions
+
+[The Psychology of Intelligence Analysis: Drivers of Prediction Accuracy in World Politics](https://www.apa.org/pubs/journals/releases/xap-0000040.pdf)
+
+Article on intelligence analysis and intelligence predictions. Are expert accurate in their predictions? What qualities or methods used by experts are more accurate?
+
+Tetlock & Gardner (2015), [Superforecasting: The Art and Science of Prediction.]
+
+> TBR. From the abstract: "good forecasting ... involves gathering evidence from a variety of sources, thinking probabilistically, working in teams, keeping score, and being willing to admit error and change course. We also suggest that the public accountability of participants ... boosted performance."
+
+Wilcox & Mandel, [Critical Review of the Analysis of Competing Hypotheses Technique: Lessons for the Intelligence Community]()
+
+> Article showing how the method known as Analysis of Competing Hypotheses (ACH) does not lead to good predictions in intelligence analysis. One of the culprits is the odd assessment of the probability of hypotheses in which only inconsitency with the evidence counts against the hypothesis, but not confirmation.  
