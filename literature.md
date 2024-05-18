@@ -71,7 +71,7 @@ Anderson (1981), [Legal Judgment as Information integration, Chapter 4](https://
 
 > I believe from the 1981 book *Foundations of information integration theory* by Norman Henry Anderson.
 
-> # How to improve accuracy of assessments, predictions and decisions
+# How to improve accuracy of assessments, predictions and decisions
 
 Tetlock & others (2015), [The Psychology of Intelligence Analysis: Drivers of Prediction Accuracy in World Politics](https://www.apa.org/pubs/journals/releases/xap-0000040.pdf)
 
