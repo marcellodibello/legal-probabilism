@@ -40,11 +40,17 @@ Garrett & Neufeld (2009), [Invalid Forensic Science Testimony and Wrongful Convi
 
  ## Court cases
 
+## Netherlands
+
+(2022) [Rosmalense](https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Gerechtshoven/Gerechtshof-Arnhem-Leeuwarden/Nieuws/Paginas/Alsnog-vrijspraak-Rosmalense-flatmoord.aspx)
+
+> TBR
+
 ## Spain
 
 [Jose Antonio Valdivielso](https://www.registryofexonerations.eu/case_details/jose-antonio-valdivielso-attempted-murdermanslaughter-2002/)
 
-[Jorge Casaleiro](https://www.registryofexonerations.eu/case_details/jorge-casaleiro-robberyburglary-2017/)
+(2021) [Jorge Casaleiro](https://www.registryofexonerations.eu/case_details/jorge-casaleiro-robberyburglary-2017/)
 
 > Both these cases are similar. The defendant is convicted on the basis of eyewitness evidence. DNA evidence comes in late after the trials has been completed because of delays in the forensic reporting (unclear why). When the DNA report comes int, there is no match between the defendant and the crime sample. Defendant is exonerated. Why did it take so long for DNA report to come in?
 
