@@ -1,4 +1,6 @@
-[TOC]
+**Table of contents** 
+* TOC
+{:toc}
 
 # False convictions
 
