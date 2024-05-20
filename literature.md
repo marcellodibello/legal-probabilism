@@ -71,9 +71,11 @@ Garrett & Neufeld (2009), [Invalid Forensic Science Testimony and Wrongful Convi
 
 # Eyewitness Evidence
 
-## Types of Lineu-ps and which is more accurate
+## Types of Line-ups and which is more accurate
 
+Worth examining these two issues: (a) sequential versus side-by-side lineups and (B) bliding, as two factors that improve accuracy in eyewitness identification:
 
+> "Presenting suspects to witnesses sequentially rather than side by side reduces the tendency of witnesses to make relative judgments, which often are inaccurate. The double-blind aspect, under which the investigator administering the identification procedure does not know who the suspect is, reduces the possibility that witnesses will be improperly influenced to choose a particular individual." Comment on eyewitness error in the website of the [Northwestern Center on Wrongful Convictions](https://cwc.law.northwestern.edu/erroneous-eyewitness-identification/)
 
 # Non probabilistic evidence assessment and decision-making
 
