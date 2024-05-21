@@ -44,6 +44,10 @@ Garrett & Neufeld (2009), [Invalid Forensic Science Testimony and Wrongful Convi
 
 > TBR
 
+(2023). [Murder, Wrongful Conviction and the Law: An International Comparative Analysis](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003251484-8/miscarriages-justice-spain-guadalupe-blanco-velasco-nuria-s%C3%A1nchez-linda-geven)
+
+> Nice book with an international perspective on false convictions (Spain, Italy, Netherlands, Norways, Sweden, Argentina, etc.). Read a few chapters. Focus is more on legal rules and legal requirements for exoneration rather than examples and causes of false convictions. Good legal background. TBR more in depth time permitting. 
+
  ## Court cases
 
 ## Netherlands
@@ -80,8 +84,14 @@ Worth examining these two issues: (a) sequential versus side-by-side lineups and
 
 (2023) [The rule out procedure: A signal-detection-informed approach to the collection of eyewitness identification evidence](https://psycnet.apa.org/record/2023-31153-001)
 
-> TBR. From abstract: "a modified lineup in which participants were asked to follow categorical identification decisions by assigning a *confidence* rating to each lineup member had better discriminability than both the showup and the standard simultaneous lineup" The idea seems to go beyond categorical yes/no identifications. 
+> TBR. From abstract: "a modified lineup in which participants were asked to follow categorical identification decisions by assigning a *confidence* rating to each lineup member had better discriminability than both the showup and the standard simultaneous lineup" The idea seems to go beyond categorical yes/no identifications.
 
+
+(2020) [A perceptual scaling approach to eyewitness identification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7360747/)
+
+> TBR. From abstract: "Traditional lineups rely on overt eyewitness responses that confound two covert factors: strength of recognition memory and the criterion for deciding what memory strength is sufficient for identification. Here we describe a lineup that permits estimation of memory strength independent of decision criterion." Idea again is to go beyond categorical yes/no identification and disaggregate (i) a decision/threshold criterion and (ii) a confidence level. [Data here](https://osf.io/n7vme/)
+>
+> 
 # Non probabilistic evidence assessment and decision-making
 
 Anderson (1981), [Legal Judgment as Information integration, Chapter 4](https://psychology.ucsd.edu/_files/norman-anderson-book/Chapter%204.pdf)
