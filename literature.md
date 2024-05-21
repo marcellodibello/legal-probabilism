@@ -24,9 +24,9 @@ John Morgan, [The Impact of False or Misleading Forensic Evidence on Wrongful Co
 > (2) shows that many errors are due to (a) outdated standards (no longer used), (b) experts not part of official institutions and
 > (c) testimony errors (incorrect presentation of otherwise correct forensic results). Wealth of information in the report. To be read very carefully. 
 
-John Morgan (2023), [Wrongful Convictions and Forensic Science Errors]
+John Morgan (2023), [Wrongful Convictions and Forensic Science Errors]()
 
-> TBR. Book version of the article above. More detailed. Examines different types of forensic evidence (bitemarks, dna, fingerprint, ballistic, etc.)
+> TBR. Book version of the article above. More detailed. Examines different types of forensic evidence (bitemarks, dna, fingerprint, ballistic, etc.). Full text available online via university library. 
 
 Garrett (2011) [Convicting the Innocent: Where Criminal Prosecutions Go Wrong](https://convictingtheinnocent.com/)
 
