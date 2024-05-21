@@ -77,6 +77,11 @@ Worth examining these two issues: (a) sequential versus side-by-side lineups and
 
 > "Presenting suspects to witnesses sequentially rather than side by side reduces the tendency of witnesses to make relative judgments, which often are inaccurate. The double-blind aspect, under which the investigator administering the identification procedure does not know who the suspect is, reduces the possibility that witnesses will be improperly influenced to choose a particular individual." Comment on eyewitness error in the website of the [Northwestern Center on Wrongful Convictions](https://cwc.law.northwestern.edu/erroneous-eyewitness-identification/)
 
+
+(2023) [The rule out procedure: A signal-detection-informed approach to the collection of eyewitness identification evidence](https://psycnet.apa.org/record/2023-31153-001)
+
+> TBR. From abstract: "a modified lineup in which participants were asked to follow categorical identification decisions by assigning a *confidence* rating to each lineup member had better discriminability than both the showup and the standard simultaneous lineup" The idea seems to go beyond categorical yes/no identifications. 
+
 # Non probabilistic evidence assessment and decision-making
 
 Anderson (1981), [Legal Judgment as Information integration, Chapter 4](https://psychology.ucsd.edu/_files/norman-anderson-book/Chapter%204.pdf)
