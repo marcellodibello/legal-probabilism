@@ -1,0 +1,378 @@
+
+---
+title: "PHI 420/555 - Legal Probabilism"
+subtitle: "Fall 23"
+author: "[Marcello Di Bello](https://www.marcellodibello.com/)  - mdibello@asu.edu"
+output:
+    rmdformats::html_clean:
+    fig_width: 6
+    fig_height: 6
+    highlight: kate
+    thumbnails: true
+    lightbox: true
+    gallery: true
+    toc_depth: 2
+    toc: TRUE
+---    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"algo-fair-logo.png\" style=\"float: right;width: 300px;height: 220px;\"/>')
+   });
+</script>
+
+
+
+```{r knitr_init, echo=FALSE, results="asis", cache=FALSE}
+library(knitr)
+library(rmdformats)
+## Global options
+options(max.print = "75")
+opts_chunk$set(echo = FALSE,
+	             cache = FALSE,
+               prompt = FALSE,
+               tidy = TRUE,
+               comment = NA,
+               message = FALSE,
+               warning = FALSE)
+opts_knit$set(width = 75)
+```
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 20px;
+      font-family:'Avenir Next';
+  }
+
+</style>
+
+
+
+<!--- 
+ADDED STYLES/ FONT SIZSES
+<style type="text/css">
+body{ /* Normal  */
+      font-size: 18px;
+  }
+  
+ 
+td {  /* Table  */
+  font-size: 8px;
+}
+h1.title {
+  font-size: 38px;
+  color: DarkRed;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+h2 { /* Header 2 */
+    font-size: 22px;
+  color: DarkBlue;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+</style>
+-->
+
+
+Th	3:00-5:50 PM in Tempe, [COOR](https://www.asu.edu/map/interactive/?psCode=COOR) 3301  
+
+<!-- ~~3301~~ 3323   --->
+
+
+Office hours: Thursday after class or by appointment
+
+# Topic
+
+Legal probabilism is an ongoing research program that aims to harness the powers of probability theory to analyze, model and improve the evaluation of evidence and the process of decision-making in trial proceedings.  Many theorists have criticized it. To decide about a person’s life and liberty with numbers is irresponsible, even unjust. Legal probabilism---critics argue---misconstrues the process of weighing evidence at trial and leads to the dehumanization of trial decisions. The seminar examines these current debates and their relevance to larger questions about AI and the human future. 
+
+
+# Objectives
+
+This course is meant for advanced undergraduates and graduate students. 
+You will become familiar with current debates in philosophy, law and computer science 
+about legal reasoning, evidence and uncertainty with a focus on 
+questions about use of probability, statistics and AI. You will sharpen your critical thinking 
+skills, in reading  and  writing, for the analysis of theoretical concepts and their application to current legal questions. You will read academic papers in philosophy, law and computer science and develop an appreciation for their distinctive contributions. 
+
+# Course Materials
+
+Readings and other course materials are available 
+on this website. For readings covered 
+by copyright, please check the Canvas page of this course.  
+Course materials are divided into "essential" and "additional". 
+You are only expected to study the essential ones, but I 
+recommend that you have a look at the 
+additional materials for at least one 
+or two weeks.
+
+
+# Requirements
+
+
+## Participation
+
+Please attend class regularly and participate 
+(**10% of your grade**). This is a "seminar style" course. You are 
+expected to take an active role in the discussions. Please study the assigned 
+materials **before class** and be ready to discuss them. 
+
+
+## Assignments
+
+In addition, 
+you should write ten 
+Pass/Fail précis as well as three graded essays or 
+a research paper (**90% of your grade**).
+
+### Pass/fail 
+
+Every week please write a **one-page précis** of one of the papers assigned for that week. 
+The précis should describe: (a) topic of the paper; 
+(b) main thesis (or main theses, if there are more than one); 
+(c) supporting arguments; (d) objections to these arguments, complications or 
+difficulties that the author considers (if any). Submit 
+your précis each week through Canvas **before the beginning of class**. 
+You should receive a PASS in **at least ten précis**, or else a full letter grade 
+will be subtracted from your final grade: A would become B; B would become C; etc.
+
+
+### Essays 
+
+There will be three main graded assignments 
+for this course, **5 pages each**. 
+
+**1**. Write a **critical essay** that discusses the manipulationist account of causation.
+Your essay should begin with a careful theoretical summary of the key ideas in the manipulationist account (1-2 pages). After that, you should apply the account to a specific example in the social sciences and show how the account can be useful in modeling causation (1-2 pages). Finally, you should raise problems and difficulties for the account (1-2- pages). Please draw from the course readings as needed and demonstrate thoughful engagement with them. 
+
+**2**. After doing independent research, collect and summarize a **case study** that illustrates the challenges of investigating the causal role of race. The first part of your essay (1-2 pages) should describe your case study. Topics for your case study could include, but are not limited to, health care, criminal justice, education, hiring.  The second part (3-4 pages) should draw from the readings on the philosophy of race. 
+
+**3**. Write a **philosophical argumentative essay** that examines the topic "Philosophical Challenges to the Study of Racial Discrimination". In examining this topic, you should draw from the course readings on racial discrimination. You may (but need not) build on the case study you discussed in your second essay.  Your essay can be primarily negative, e.g., you argue that the challenges are insurmountable. Your essay can also be more positive, e.g., you describe the challenges and propose ways to address them. 
+
+
+### Research paper 
+
+If you are a grad student or advanced undergrad with research experience, 
+you may combine the three 5 page essays into one 
+**15-20 page** research paper. The research paper should engage closely 
+with a subset of the course materials including the additional ones. 
+It is neither necessary nor recommended that you use materials outside those already 
+included in the course materials. 
+
+*Please come talk to me before you start working on the research paper.* 
+
+
+
+# Handouts 
+
+[Week 1](https://www.marcellodibello.com/legal-probabilism/handout/introduction.html) 
+
+# Schedule 
+
+## 8/22
+
+**Week 1: Introduction**
+
+Probability and statistical methods can be used in trial proceedings for assessing the value and 
+strength of the evidence against the defendant. In some instances, probability and statistics can be helpful, for example in the case of DNA evidence (more on DNA evidence next week); in other cases, they are much less so. To illustrate some of the problems at stake, we will start by discussing 
+an infamous California case, People v. Collins (1968). 
+
+
+*Essential readings*
+
+- Collins
+
+- Nesson
+
+- Laurence Tribe, Trial by Mathematics
+
+
+
+## 8/29
+
+**Week 2: Match evidence**
+
+- Fingerprints
+
+- DNA evidence 
+
+- Finkelstein and Fairly
+
+##  9/5
+
+**Week 3: Unlikely Coincidences**
+
+*Essential readings*
+
+- Lucia de Berk
+
+- Sally Clark
+
+## 9/12
+
+**Week 4: Eyewitness identifications**
+
+
+## 9/19
+
+**Week 5: Extrapolations and Profiling**
+
+## 9/26
+
+
+**Week 6: Aggregating evidence**
+
+
+## 10/3
+
+**Week 7: No class**
+
+
+**First essay due**
+
+
+## 10/10
+
+**Week 8: Probability, Stories, Arguments**
+
+*Essential readings*
+
+- Lagnado
+
+
+## 10/17
+
+**Week 9: Cross-examination**
+
+
+*Essential readings*
+
+- Cheng
+
+
+
+**Week 10: Probability and decision**
+
+## 10/24
+
+
+*Essential readings*
+
+
+- Kaplan
+
+- Hamer
+
+- Kaye
+
+
+## 10/31
+
+
+**Week 11: Against Legal Probabilism**
+
+
+*Essential readings*
+
+- Allen and Pardo
+
+
+
+## 11/07
+
+
+**Week 12:**
+
+
+
+*Essential readings*
+
+- 
+
+## 11/14
+
+
+**Week 13: **
+
+
+*Essential readings*
+
+- 
+
+*Additional readings and materials*
+
+
+## 11/21
+
+**Week 14:  Workshop**
+
+
+Students will workshop their research papers by giving short presentations accompanied by either a handout or slides and followed by Q&A. Each presenter will have 30 minutes to be split between the presentation itself and Q&A at the discretion of the presenter. The list of presenters is below.  
+
+10:30 | Scout | *Measuring Structural Manipulations"*
+
+11:00 |  Annah | *The Role of Race in the Retention Rates of College Students*
+
+11:30 | Megan | *The Invisible Test for Social Structural Explanations*
+
+12:00 | Break
+
+12:20 | Sunil | *Resumes, Audit Studies, and Challenges to Studying Discrimination*
+
+12:50 | Yashin | *Against (Anti-)Racism: Racial Anti-Realism and the Case for a Non-Racist Politic*
+
+
+## 11/28
+
+**Week 15: Thanksgiving break**
+
+
+## 12/5: Conclusion**
+
+What have we learned? What questions are still left open and 
+what lines of inquiry seemed more promising?
+
+- [Handout - Week 15](https://www.marcellodibello.com/race-causality-discrimination/handout/conclusion.html)
+
+
+**Third essay or research paper due December 1st**
+
+# Title IX 
+
+Title IX is a federal law that provides that no person be excluded on the basis of sex from participation in, be denied benefits of, or be subjected to discrimination under any education program or activity.  Both Title IX and university policy make clear that sexual violence and harassment based on sex is prohibited.  An individual who believes they have been subjected to sexual violence or harassed on the basis of sex can seek support, including counseling and academic support, from the university.  If you or someone you know has been harassed on the basis of sex or sexually assaulted, you can find information and resources at https://sexualviolenceprevention.asu.edu/faqs. 
+
+ 
+
+As a mandated reporter, I am obligated to report any information I become aware of regarding alleged acts of sexual discrimination, including sexual violence and dating violence.  ASU Counseling Services, https://eoss.asu.edu/counseling is available if you wish to discuss any concerns confidentially and privately. ASU online students may access 360 Life Services, https://goto.asuonline.asu.edu/success/online-resources.html.
