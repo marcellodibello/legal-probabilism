@@ -116,15 +116,14 @@ Office hours: Thursday after class or by appointment
 
 # Topic
 
-Legal probabilism is an ongoing research program that aims to harness the powers of probability theory to analyze, model and improve the evaluation of evidence and the process of decision-making in trial proceedings.  Many theorists have criticized it. To decide about a person’s life and liberty with numbers is irresponsible, even unjust. Legal probabilism---critics argue---misconstrues the process of weighing evidence at trial and leads to the dehumanization of trial decisions. The seminar examines these current debates and their relevance to larger questions about AI and the human future. 
-
+Legal probabilism is an ongoing research program that aims to harness the powers of probability theory to analyze, model and improve the evaluation of evidence and the process of decision-making in trial proceedings.  Many theorists have criticized it. These critiques range from difficulties in assessing the probability of someone’s criminal or civil liability to the dehumanization of trial decisions to misconstruing how the process of evidence evaluation and decision-making takes place in trial proceedings. To decide about a person’s life and liberty with numbers is irresponsible, even unjust. The seminar examines these current debates and their relevance to larger questions about AI and the human future. 
 
 # Objectives
 
 This course is meant for advanced undergraduates and graduate students. 
 You will become familiar with current debates in philosophy, law and computer science 
 about legal reasoning, evidence and uncertainty with a focus on 
-questions about use of probability, statistics and AI. You will sharpen your critical thinking 
+questions about the use of probability, statistics and AI. You will sharpen your critical thinking 
 skills, in reading  and  writing, for the analysis of theoretical concepts and their application to current legal questions. You will read academic papers in philosophy, law and computer science and develop an appreciation for their distinctive contributions. 
 
 # Course Materials
@@ -174,12 +173,13 @@ will be subtracted from your final grade: A would become B; B would become C; et
 There will be three main graded assignments 
 for this course, **5 pages each**. 
 
-**1**. Write a **critical essay** that discusses the manipulationist account of causation.
-Your essay should begin with a careful theoretical summary of the key ideas in the manipulationist account (1-2 pages). After that, you should apply the account to a specific example in the social sciences and show how the account can be useful in modeling causation (1-2 pages). Finally, you should raise problems and difficulties for the account (1-2- pages). Please draw from the course readings as needed and demonstrate thoughful engagement with them. 
+**1**. Write a **critical essay** that outlines the main tenets of legal probabilism and some of the criticism 
+that have been leveled against it. Your essay should begin with a careful summary of the key ideas of legal probabilism (1-2 pages). After that, you should apply the account to a toy example (1-2 pages). Finally, you should raise problems and difficulties for legal probabilism (1-2- pages). Please draw from the course readings as needed and demonstrate thoughtful engagement with them. 
 
-**2**. After doing independent research, collect and summarize a **case study** that illustrates the challenges of investigating the causal role of race. The first part of your essay (1-2 pages) should describe your case study. Topics for your case study could include, but are not limited to, health care, criminal justice, education, hiring.  The second part (3-4 pages) should draw from the readings on the philosophy of race. 
+**2**. After doing independent research, identify a disputed factual issue 
+in a court case and analyze it using probability theory. Your essay should serve as **case study** that illustrates the advantages and challenges of applying probability theory to a real legal case. The first part of your essay (1-2 pages) should describe informally the key items of evidence in the case and the disputed facts. The second part (3-4 pages) should apply probability theory to analyze and weigh the evidence. 
 
-**3**. Write a **philosophical argumentative essay** that examines the topic "Philosophical Challenges to the Study of Racial Discrimination". In examining this topic, you should draw from the course readings on racial discrimination. You may (but need not) build on the case study you discussed in your second essay.  Your essay can be primarily negative, e.g., you argue that the challenges are insurmountable. Your essay can also be more positive, e.g., you describe the challenges and propose ways to address them. 
+**3**. Write a **philosophical argumentative essay** that examines the topic "Legal Probabilism: Opportunities and Challenges". In examining this topic, you should draw from the course readings though I do not expect you to cover all of them. You may (but need not) build on the case study you discussed in your second essay.  Your essay can be primarily negative, e.g., you argue that the challenges are insurmountable. Your essay can also be more positive, e.g., you describe the challenges and propose ways to address them within legal probabilism. 
 
 
 ### Research paper 
@@ -203,57 +203,140 @@ included in the course materials.
 
 ## 8/22
 
-**Week 1: Introduction**
+**Week 1: Collins**
 
-Probability and statistical methods can be used in trial proceedings for assessing the value and 
-strength of the evidence against the defendant. In some instances, probability and statistics can be helpful, for example in the case of DNA evidence (more on DNA evidence next week); in other cases, they are much less so. To illustrate some of the problems at stake, we will start by discussing 
-an infamous California case, People v. Collins (1968). 
+Probability and statistical methods can be used in trial proceedings for assessing the strength 
+of the evidence against the defendant, but can also lead to confusions, exaggerations and errors. To illustrate some of the problems, we will start by discussing an infamous case, People v. Collins (1968). This case started the law and probability 
+debate in the United States back in the 70ies. Along the way, you will learn the basics of 
+probability theory and Bayes' theorem.
 
+*Primary readings*
 
-*Essential readings*
+- [People v. Collins](https://www.marcellodibello.com/mathtrial/resources/Collins1968.pdf) (1968)
 
-- Collins
+- Finkelstein and Fairley (1970), [A Bayesian Approach to Identification Evidence](https://www.marcellodibello.com/mathtrial/resources/FinkelsteinFairley1970.pdf) 
+
+*Additional readings*
+
+- Dawid
+
+- Tribe, Trial by Mathematics
 
 - Nesson
-
-- Laurence Tribe, Trial by Mathematics
-
-
 
 ## 8/29
 
 **Week 2: Match evidence**
 
-- Fingerprints
+Match evidence, such as DNA and fingerprint evidence, offers the clearest 
+example of how probability and statistics can help to weigh evidence.  We will discuss how 
+match evidence works, and the debates about how it should be assessed and presented at trial. 
 
-- DNA evidence 
+*Primary readings*
 
-- Finkelstein and Fairly
+- [People v. Rush](https://www.marcellodibello.com/mathtrial/resources/Rush1995.pdf) (1995)
+
+- Wasserman (2004), [Forensic DNA Typing](https://www.marcellodibello.com/mathtrial/resources/WassermanDNA2008.pdf)
+
+- Koehler (1993), [Error and Exaggeration in the Presentation of DNA Evidence](https://www.marcellodibello.com/mathtrial/resources/KoehlerDNAPres1993.pdf)
+
+*Additional readings*
+
+- Zabell (2005), [Fingerprint Evidence](https://selfteachingresources.pbworks.com/f/Fingerprint+Evidence+jlp13i_zabell.pdf)
+
+
 
 ##  9/5
 
 **Week 3: Unlikely Coincidences**
 
-*Essential readings*
+If a suspiciously high number of people 
+die in a hospital when a nurse is on duty---much higher than when 
+other nurses are on duty---is this evidence that 
+the nurse is culpable for their death or was it a coincidence? 
+We will look at two infamous cases, 
+Lucia de Berk and Sally Clark, in which statistics about unlikely coincidences
+were used---actually, abused!---to conclude that a wrongdoing occurred.
 
-- Lucia de Berk
+*Primary readings*
 
-- Sally Clark
+- [R v Clark](https://www.marcellodibello.com/mathtrial/resources/SallyClarkSecondAppeal2003.pdf) (2003)
+
+- Derksen (2007), [The Fabrication of Fact](https://www.marcellodibello.com/mathtrial/resources/fabricationoffacts.pdf)
+
+*Additional readings*
+
+- Meester and others (2006), [On the (Ab)use of Statistics in the Legal Case Against the Nurse Lucia de B](https://www.marcellodibello.com/mathtrial/resources/vanLambalgenNurse2006.pdf)
+
+- Fienberg and Kaye (1991), [Legal and Statistical Analysis of some Mysterious Clusters](https://www.marcellodibello.com/mathtrial/resources/FienbergKayeCluster1991.pdf)
+
 
 ## 9/12
 
 **Week 4: Eyewitness identifications**
 
+Eyewitness testimony is often a central piece in a 
+prosecutor's case against the defendant. Eyewitness evidence is not numerical 
+on its face---it consists of qualitative statements "I saw this or that". 
+However, a growing body of research in psychology and law has deployed the tools of probability 
+and statistics to assess the value of eyewitness evidence and address questions such as, how reliable are reports by eyewitnesses? 
+Does reliability increase with the subjective confidence of a witness? While some studies paint 
+a rather negative picture about eyewitness evidence and its many pitfalls, more recent studies 
+offers a more complicated picture. An eyewitness identification can be very strong evidence of guilt.
+
+*Primary readings*
+
+- Loftus
+
+- Wixted and Wells (2017), [The Relationship Between Eyewitness Confidence and Identification Accuracy: A New Synthesis](https://journals.sagepub.com/stoken/default+domain/2X3HtwVgmHH7cCakgVgq/full)
+
+
+*Additional readings*
+
 
 ## 9/19
 
-**Week 5: Extrapolations and Profiling**
+**Week 5: Probability of Guilt?**
+
+We have seen how different types of evidence can be evaluated using probability and statistics. But what is the ultimate goal of this evaluation? Is it to arrive at a probability that the defendant is guilty?  
+
+*Primary readings*
+
+- [Regina v. T](https://www.bailii.org/ew/cases/EWCA/Crim/2010/2439.pdf) (2010)
+
+- Dawid (2001), [Bayes’s Theorem and Weighing Evidence by Juries](https://www.researchgate.net/publication/245581914_Bayes's_Theorem_And_Weighing_Evidence_by_Juries)
+
+
+*Additional readings*
+
+- Fenton (2011), [Improve statistics in court](https://www.nature.com/articles/479036a)
+
+- Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 1](https://plato.stanford.edu/entries/legal-probabilism/#ProbTool)
+
+- [Fundamentals of Probability and Statistical Evidence in Criminal Proceedings ](https://www.maths.ed.ac.uk/~cgga/rss.pdf)
+
+- Redmayne (2008),[Exploring the Proof Paradoxes](https://www.cambridge.org/core/journals/legal-theory/article/abs/exploring-the-proof-paradoxes/AB54733DCA886ED0BB43156D98F5BBEE)
 
 ## 9/26
 
 
 **Week 6: Aggregating evidence**
 
+Legal cases often comprise multiple pieces of evidence, sometimes conflicting, presented by each side to advance their arguments for or against the defendant. Can probability and statistics help to put them together, weigh their strengths and weaknesses and yield a unified picture? This is where legal probabilism faces significant challenges, both practical and theoretical.  
+
+*Primary readings*
+
+- Cohen (1977), 'The Difficulty about Conjunction', in The Probable and The Provable - *check Canvas*
+
+- Spottswood (2016), [Unraveling the Conjunction Paradox](https://academic.oup.com/lpr/article/15/4/259/2733187)
+
+*Additional readings*
+
+- Dawid (1987), The Difficulty About Conjunction 
+
+- Di Bello and Urbaniak
+
+- Haack
 
 ## 10/3
 
@@ -265,11 +348,20 @@ an infamous California case, People v. Collins (1968).
 
 ## 10/10
 
-**Week 8: Probability, Stories, Arguments**
+**Week 8: The Story Model and Bayesian Networks**
 
-*Essential readings*
+A prominent alternative to the probabilistic approach to evidence evaluation is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process of story construction? Bayesian networks have been used to calculate numerically the weight of large bodies of evidence. We are still far from a mature theory, but some progress has been made. 
 
-- Lagnado
+
+*Primary readings*
+
+- Pennington and Hastie (1993), 'The story model for juror decision making', in Inside the Juror: The Psychology of Juror Decision Making - *check canvas*
+
+- Fenton and other (2019), [Analyzing the Simonshaven Case Using Bayesian Networks](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417)
+
+*Additional readings*
+
+- Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 3](https://plato.stanford.edu/entries/legal-probabilism/#BayeNetwForLegaAppl)
 
 
 ## 10/17
@@ -282,13 +374,12 @@ an infamous California case, People v. Collins (1968).
 - Cheng
 
 
-
-**Week 10: Probability and decision**
+**Week 10: Probability, juries and decisions**
 
 ## 10/24
 
 
-*Essential readings*
+*Primary readings*
 
 
 - Kaplan
@@ -297,14 +388,16 @@ an infamous California case, People v. Collins (1968).
 
 - Kaye
 
+- Condorcet
+
 
 ## 10/31
 
 
-**Week 11: Against Legal Probabilism**
+**Week 11: Against legal probabilism**
 
 
-*Essential readings*
+*Primary readings*
 
 - Allen and Pardo
 
@@ -312,19 +405,17 @@ an infamous California case, People v. Collins (1968).
 
 ## 11/07
 
-
-**Week 12:**
-
+**Week 12: Wrongful convictions**
 
 
-*Essential readings*
+*Primary readings*
 
-- 
+- Risinger 
 
 ## 11/14
 
 
-**Week 13: **
+**Week 13:**
 
 
 *Essential readings*
@@ -341,25 +432,15 @@ an infamous California case, People v. Collins (1968).
 
 Students will workshop their research papers by giving short presentations accompanied by either a handout or slides and followed by Q&A. Each presenter will have 30 minutes to be split between the presentation itself and Q&A at the discretion of the presenter. The list of presenters is below.  
 
-10:30 | Scout | *Measuring Structural Manipulations"*
-
-11:00 |  Annah | *The Role of Race in the Retention Rates of College Students*
-
-11:30 | Megan | *The Invisible Test for Social Structural Explanations*
-
-12:00 | Break
-
-12:20 | Sunil | *Resumes, Audit Studies, and Challenges to Studying Discrimination*
-
-12:50 | Yashin | *Against (Anti-)Racism: Racial Anti-Realism and the Case for a Non-Racist Politic*
-
 
 ## 11/28
 
 **Week 15: Thanksgiving break**
 
 
-## 12/5: Conclusion**
+## 12/5
+
+**Week 16: Conclusion**
 
 What have we learned? What questions are still left open and 
 what lines of inquiry seemed more promising?
