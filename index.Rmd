@@ -137,6 +137,14 @@ recommend that you have a look at the
 additional materials for at least one 
 or two weeks.
 
+There is no textbook, but the following 
+two can be useful resources:
+
+- Urbaniak and Di Bello (2021), [Legal Probabilism](https://plato.stanford.edu/entries/legal-probabilism/)
+
+
+- [Fundamentals of Probability and Statistical Evidence in Criminal Proceedings](https://www.maths.ed.ac.uk/~cgga/rss.pdf)
+
 
 # Requirements
 
@@ -197,18 +205,18 @@ included in the course materials.
 
 # Handouts 
 
-[Week 1](https://www.marcellodibello.com/legal-probabilism/handout/introduction.html) 
-
 # Schedule 
 
 ## 8/22
 
 **Week 1: Collins**
 
-Probability and statistical methods can be used in trial proceedings for assessing the strength 
-of the evidence against the defendant, but can also lead to confusions, exaggerations and errors. To illustrate some of the problems, we will start by discussing an infamous case, People v. Collins (1968). This case started the law and probability 
-debate in the United States back in the 70ies. Along the way, you will learn the basics of 
-probability theory and Bayes' theorem.
+Probability and statistical methods can be used in trial proceedings for evaluating 
+the evidence presented against the defendant. Sometimes the evidence itself is 
+presented in the form of probabilities and statistics. This numerical presentation 
+can lead to confusions, exaggerations and errors. To illustrate some of the problems, we will start by discussing an infamous case, People v. Collins (1968). This case started the law and probability 
+debate in the United States back in the 70ies. Along the way, we will learn the basics of 
+probability theory.
 
 *Primary readings*
 
@@ -218,11 +226,6 @@ probability theory and Bayes' theorem.
 
 *Additional readings*
 
-- Dawid
-
-- Tribe, Trial by Mathematics
-
-- Nesson
 
 ## 8/29
 
@@ -238,9 +241,9 @@ match evidence works, and the debates about how it should be assessed and presen
 
 - Wasserman (2004), [Forensic DNA Typing](https://www.marcellodibello.com/mathtrial/resources/WassermanDNA2008.pdf)
 
-- Koehler (1993), [Error and Exaggeration in the Presentation of DNA Evidence](https://www.marcellodibello.com/mathtrial/resources/KoehlerDNAPres1993.pdf)
-
 *Additional readings*
+
+- Koehler (1993), [Error and Exaggeration in the Presentation of DNA Evidence](https://www.marcellodibello.com/mathtrial/resources/KoehlerDNAPres1993.pdf)
 
 - Zabell (2005), [Fingerprint Evidence](https://selfteachingresources.pbworks.com/f/Fingerprint+Evidence+jlp13i_zabell.pdf)
 
@@ -248,7 +251,30 @@ match evidence works, and the debates about how it should be assessed and presen
 
 ##  9/5
 
-**Week 3: Unlikely Coincidences**
+
+**Week 3: Profiling**
+
+There is little doubt that match evidence should be used at trial as evidence of guilt, for example, when the defendant matches the crime traces. But what about evidence that people with certain traits are extremely like---based on the available data and studies---to a commit a crime? For example, data consistently shows people who committed burglaries in the past or a sexual offense are extremely like to re-offend. Can this evidence be used as evidence of guilt and if so how should it be evaluated?
+
+
+*Primary readings*
+
+
+- [United States v. Vue](https://casetext.com/case/us-v-vue) (1994)
+
+- Redmayne (2003), [The Relevance of Bad Character](https://www.cambridge.org/core/journals/cambridge-law-journal/article/abs/relevance-of-bad-character/8876D6D820853C4B38E5914494682BA1)
+
+*Additional readings*
+
+- Aviv (2013), [The Science of Sex Abuse](https://www.marcellodibello.com/phil90L/resources/AvivSexAbuseNewYorker2013.pdf)
+
+- Di Bello and O'Oneil (2020), [Profile Evidence, Fairness, and the Risks of Mistaken Convictions](https://www.journals.uchicago.edu/doi/full/10.1086/705764)
+
+
+## 9/12
+
+
+**Week 4: Unlikely Coincidences**
 
 If a suspiciously high number of people 
 die in a hospital when a nurse is on duty---much higher than when 
@@ -271,9 +297,12 @@ were used---actually, abused!---to conclude that a wrongdoing occurred.
 - Fienberg and Kaye (1991), [Legal and Statistical Analysis of some Mysterious Clusters](https://www.marcellodibello.com/mathtrial/resources/FienbergKayeCluster1991.pdf)
 
 
-## 9/12
 
-**Week 4: Eyewitness identifications**
+## 9/19
+
+
+
+**Week 5: Eyewitness identifications**
 
 Eyewitness testimony is often a central piece in a 
 prosecutor's case against the defendant. Eyewitness evidence is not numerical 
@@ -293,10 +322,10 @@ offers a more complicated picture. An eyewitness identification can be very stro
 
 *Additional readings*
 
+## 9/26
 
-## 9/19
 
-**Week 5: Probability of Guilt?**
+**Week 6: Probability of Guilt?**
 
 We have seen how different types of evidence can be evaluated using probability and statistics. But what is the ultimate goal of this evaluation? Is it to arrive at a probability that the defendant is guilty?  
 
@@ -313,14 +342,20 @@ We have seen how different types of evidence can be evaluated using probability 
 
 - Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 1](https://plato.stanford.edu/entries/legal-probabilism/#ProbTool)
 
-- [Fundamentals of Probability and Statistical Evidence in Criminal Proceedings ](https://www.maths.ed.ac.uk/~cgga/rss.pdf)
-
-- Redmayne (2008),[Exploring the Proof Paradoxes](https://www.cambridge.org/core/journals/legal-theory/article/abs/exploring-the-proof-paradoxes/AB54733DCA886ED0BB43156D98F5BBEE)
-
-## 9/26
 
 
-**Week 6: Aggregating evidence**
+## 10/3
+
+**Week 7: No class**
+
+
+**First essay due**
+
+
+## 10/10
+
+
+**Week 8: Aggregating evidence**
 
 Legal cases often comprise multiple pieces of evidence, sometimes conflicting, presented by each side to advance their arguments for or against the defendant. Can probability and statistics help to put them together, weigh their strengths and weaknesses and yield a unified picture? This is where legal probabilism faces significant challenges, both practical and theoretical.  
 
@@ -338,17 +373,9 @@ Legal cases often comprise multiple pieces of evidence, sometimes conflicting, p
 
 - Haack
 
-## 10/3
+## 10/17
 
-**Week 7: No class**
-
-
-**First essay due**
-
-
-## 10/10
-
-**Week 8: The Story Model and Bayesian Networks**
+**Week 9: The Story Model and Bayesian Networks**
 
 A prominent alternative to the probabilistic approach to evidence evaluation is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process of story construction? Bayesian networks have been used to calculate numerically the weight of large bodies of evidence. We are still far from a mature theory, but some progress has been made. 
 
@@ -364,37 +391,61 @@ A prominent alternative to the probabilistic approach to evidence evaluation is 
 - Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 3](https://plato.stanford.edu/entries/legal-probabilism/#BayeNetwForLegaAppl)
 
 
-## 10/17
-
-**Week 9: Cross-examination**
-
-
-*Essential readings*
-
-- Cheng
-
-
-**Week 10: Probability, juries and decisions**
 
 ## 10/24
 
 
+**Week 10: Cross-examination**
+
+
+When evidence is presented at trial, it will be scrutinized 
+and tested against objections by both parties. The legal scholar Henry Wigmore regarded 
+this cross-examination as "the greatest legal engine ever invented for the discovery of truth".
+Cross-examination is directed at witness---so the live testimony of 
+witnesses plays a central role. But new developments in technology have challenge 
+this testimony-focus approach. How to treat machine evidence, such as 
+a risk assessment tool, an AI diagnostic tool, or software to intepret DNA evidence?
+
+
+
 *Primary readings*
 
+- Cheng
 
-- Kaplan
+- Roth
 
-- Hamer
-
-- Kaye
-
-- Condorcet
+*Additional readings*
 
 
 ## 10/31
 
 
-**Week 11: Against legal probabilism**
+**Week 11: Probability and decisions**
+
+Once the evidence has been presented, evaluated and cross-examined, a decision must be made. 
+Did the defendant commit the wrongdoing or not? The law provides decision criteria in the form of standard of proofs, for example, in criminal trial the standard is to convict the defendant only if guilt is established beyond a reasonable doubt. Because these legal standard are not precise, probabilists have translated them in the more precise language of probability and 
+statistics, but this translation has remained controversial. Eliminating all reasonable doubts about someone's guilt seems to require more than just concluding that the defendant'a guilt is very probably.
+
+
+*Primary readings*
+
+- Gardiner
+
+- Redmayne (2008),[Exploring the Proof Paradoxes](https://www.cambridge.org/core/journals/legal-theory/article/abs/exploring-the-proof-paradoxes/AB54733DCA886ED0BB43156D98F5BBEE)
+
+*Additional readings*
+
+- Kaplan
+
+- Hamer
+
+<!-- Condorcet -->
+
+
+## 11/07
+
+
+**Week 12: Against legal probabilism**
 
 
 *Primary readings*
@@ -403,26 +454,15 @@ A prominent alternative to the probabilistic approach to evidence evaluation is 
 
 
 
-## 11/07
+## 11/14
 
-**Week 12: Wrongful convictions**
+**Week 13: Wrongful convictions**
 
 
 *Primary readings*
 
 - Risinger 
 
-## 11/14
-
-
-**Week 13:**
-
-
-*Essential readings*
-
-- 
-
-*Additional readings and materials*
 
 
 ## 11/21
