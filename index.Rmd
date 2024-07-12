@@ -116,7 +116,7 @@ Office hours: Thursday after class or by appointment
 
 # Topic
 
-Legal probabilism is an ongoing research program that aims to harness the powers of probability theory to analyze, model and improve the evaluation of evidence and the process of decision-making in trial proceedings.  Many theorists have criticized it. These critiques range from difficulties in assessing the probability of someone’s criminal or civil liability to the dehumanization of trial decisions to misconstruing how the process of evidence evaluation and decision-making takes place in trial proceedings. To decide about a person’s life and liberty with numbers is irresponsible, even unjust. The seminar examines these current debates and their relevance to larger questions about AI and the human future. 
+Legal probabilism is an ongoing research program that aims to harness the powers of probability theory to analyze, model and improve the evaluation of evidence and the process of decision-making in trial proceedings.  Many theorists have criticized it. These critiques range from difficulties in assessing the probability of someone’s criminal or civil liability to the dehumanization of trial decisions to misconstruing how the process of evidence evaluation and decision-making takes place in trial proceedings. The seminar examines these current debates and their relevance to larger questions about AI and the human future. 
 
 # Objectives
 
@@ -131,17 +131,16 @@ skills, in reading  and  writing, for the analysis of theoretical concepts and t
 Readings and other course materials are available 
 on this website. For readings covered 
 by copyright, please check the Canvas page of this course.  
-Course materials are divided into "essential" and "additional". 
-You are only expected to study the essential ones, but I 
+Course materials are divided into "primary" and "additional". 
+You are only expected to study the primary ones, but I 
 recommend that you have a look at the 
 additional materials for at least one 
 or two weeks.
 
-There is no textbook, but the following 
-two can be useful resources:
+There is no textbook, but these 
+two references can be useful as a guide:
 
 - Urbaniak and Di Bello (2021), [Legal Probabilism](https://plato.stanford.edu/entries/legal-probabilism/)
-
 
 - [Fundamentals of Probability and Statistical Evidence in Criminal Proceedings](https://www.maths.ed.ac.uk/~cgga/rss.pdf)
 
@@ -159,15 +158,14 @@ materials **before class** and be ready to discuss them.
 
 ## Assignments
 
-In addition, 
-you should write ten 
-Pass/Fail précis as well as three graded essays or 
+You should write ten 
+pass/fail précis, one pass/fail take-home exam, and three graded essays or 
 a research paper (**90% of your grade**).
 
-### Pass/fail 
+### (a) Précis
 
 Every week please write a **one-page précis** of one of the papers assigned for that week. 
-The précis should describe: (a) topic of the paper; 
+Unless otherwise noted, the précis should describe: (a) topic of the paper; 
 (b) main thesis (or main theses, if there are more than one); 
 (c) supporting arguments; (d) objections to these arguments, complications or 
 difficulties that the author considers (if any). Submit 
@@ -176,21 +174,27 @@ You should receive a PASS in **at least ten précis**, or else a full letter gra
 will be subtracted from your final grade: A would become B; B would become C; etc.
 
 
-### Essays 
+### (b) Exam
+
+You will take an exam that tests your understanding 
+of the basics of probability theory. The exam 
+is **take-home** and **pass/fail**.
+
+### (c) Threee essays - option 1 
 
 There will be three main graded assignments 
 for this course, **5 pages each**. 
 
-**1**. Write a **critical essay** that outlines the main tenets of legal probabilism and some of the criticism 
-that have been leveled against it. Your essay should begin with a careful summary of the key ideas of legal probabilism (1-2 pages). After that, you should apply the account to a toy example (1-2 pages). Finally, you should raise problems and difficulties for legal probabilism (1-2- pages). Please draw from the course readings as needed and demonstrate thoughtful engagement with them. 
+**I**. Write a **critical essay** that outlines the key tenets of legal probabilism and the criticisms 
+leveled against it. Your essay should begin with a summary of the key tenets of legal probabilism (1-2 pages). After that, you should apply legal probabilism to a toy example, say a stylized court case (1-2 pages). Finally, you should raise problems and difficulties for legal probabilism (1-2- pages). Please draw from the readings and demonstrate thoughtful engagement with them. 
 
-**2**. After doing independent research, identify a disputed factual issue 
+**II**. After doing independent research, identify a disputed factual issue 
 in a court case and analyze it using probability theory. Your essay should serve as **case study** that illustrates the advantages and challenges of applying probability theory to a real legal case. The first part of your essay (1-2 pages) should describe informally the key items of evidence in the case and the disputed facts. The second part (3-4 pages) should apply probability theory to analyze and weigh the evidence. 
 
-**3**. Write a **philosophical argumentative essay** that examines the topic "Legal Probabilism: Opportunities and Challenges". In examining this topic, you should draw from the course readings though I do not expect you to cover all of them. You may (but need not) build on the case study you discussed in your second essay.  Your essay can be primarily negative, e.g., you argue that the challenges are insurmountable. Your essay can also be more positive, e.g., you describe the challenges and propose ways to address them within legal probabilism. 
+**III**. Write a **philosophical argumentative essay** that examines the topic "Legal Probabilism: Opportunities and Challenges". In examining this topic, you should draw from the course readings though I do not expect you to cover all of them. You may (but need not) build on the case study you discussed in your second essay.  Your essay can be primarily negative, e.g., you argue that the challenges are insurmountable. Your essay can also be more positive, e.g., you describe the challenges and propose ways to address them within legal probabilism. 
 
 
-### Research paper 
+### (c) Research paper - option 2 
 
 If you are a grad student or advanced undergrad with research experience, 
 you may combine the three 5 page essays into one 
@@ -208,12 +212,13 @@ included in the course materials.
 
 ## 8/22
 
-**Week 1: Collins**
+**Week 1: The Collins case**
 
 Probability and statistical methods can be used in trial proceedings for evaluating 
 the evidence presented against the defendant. Sometimes the evidence itself is 
-presented in the form of probabilities and statistics. This numerical presentation 
-can lead to confusions, exaggerations and errors. To illustrate some of the problems, we will start by discussing an infamous case, People v. Collins (1968). This case started the law and probability 
+presented in the form of probabilities and statistics. This numerical presentation is often useful but can also 
+lead to confusions, exaggerations and errors. To illustrate some of the problems, we will start by 
+discussing the infamous case People v. Collins (1968). This case started the law and probability 
 debate in the United States back in the 70ies. Along the way, we will learn the basics of 
 probability theory.
 
@@ -221,10 +226,14 @@ probability theory.
 
 - [People v. Collins](https://www.marcellodibello.com/mathtrial/resources/Collins1968.pdf) (1968)
 
-- Finkelstein and Fairley (1970), [A Bayesian Approach to Identification Evidence](https://www.marcellodibello.com/mathtrial/resources/FinkelsteinFairley1970.pdf) 
+
+
+- Finkelstein and Levin (2001), Statistics for Lawyers, [Sec. 3.1-3.2](https://www.marcellodibello.com/phil90L/resources/FinkelsteinLevin2001Sec3.pdf)
+
 
 *Additional readings*
 
+- Finkelstein and Fairley (1970), [A Bayesian Approach to Identification Evidence](https://www.marcellodibello.com/mathtrial/resources/FinkelsteinFairley1970.pdf) 
 
 ## 8/29
 
@@ -232,7 +241,8 @@ probability theory.
 
 Match evidence, such as DNA and fingerprint evidence, offers the clearest 
 example of how probability and statistics can help to weigh evidence.  We will discuss how 
-match evidence works, and the debates about how it should be assessed and presented at trial. 
+match evidence works, and the debates about how it should be presented at trial. 
+We will continue learning about probability theory.
 
 *Primary readings*
 
@@ -247,13 +257,12 @@ match evidence works, and the debates about how it should be assessed and presen
 - Zabell (2005), [Fingerprint Evidence](https://selfteachingresources.pbworks.com/f/Fingerprint+Evidence+jlp13i_zabell.pdf)
 
 
-
 ##  9/5
 
 
 **Week 3: Profiling**
 
-There is little doubt that match evidence should be used at trial as evidence of guilt, for example, when the defendant matches the crime traces. But what about evidence that people with certain traits are extremely like---based on the available data and studies---to a commit a crime? For example, data consistently shows people who committed burglaries in the past or a sexual offense are extremely like to re-offend. Can this evidence be used as evidence of guilt and if so how should it be evaluated?
+There is little doubt that match evidence should be used at trial as evidence of guilt, for example, when the defendant matches the crime traces. But what about evidence that people with certain traits are extremely likely to a commit a crime? For example, data show that people who committed a sexual offense are very likely to commit it again. How should this information be used at trial?
 
 
 *Primary readings*
@@ -273,12 +282,12 @@ There is little doubt that match evidence should be used at trial as evidence of
 ## 9/12
 
 
-**Week 4: Unlikely Coincidences**
+**Week 4: Unlikely coincidences**
 
 If a suspiciously high number of people 
 die in a hospital when a nurse is on duty---much higher than when 
 other nurses are on duty---is this evidence that 
-the nurse is culpable for their death or was it a coincidence? 
+the nurse is culpable, or was this just a coincidence? 
 We will look at two infamous cases, 
 Lucia de Berk and Sally Clark, in which statistics about unlikely coincidences
 were used---actually, abused!---to conclude that a wrongdoing occurred.
@@ -299,12 +308,14 @@ were used---actually, abused!---to conclude that a wrongdoing occurred.
 
 ## 9/19
 
-**Week 5: Probability of Guilt?**
+**Week 5: Probability of guilt?**
 
 We have seen how different types of evidence 
 can be evaluated using probability and statistics. But what is the 
-goal of this evaluation? Is it to arrive at a probability that 
-the defendant is guilty? We will see a few different probabilistic measures of the value of the evidence.
+goal of this evaluation? Some think that the goal is to arrive at 
+an assessment of the probability that 
+the defendant is guilty, but there are also different probabilistic 
+measures of the value of the evidence.
 
 
 *Primary readings*
@@ -316,7 +327,7 @@ the defendant is guilty? We will see a few different probabilistic measures of t
 
 *Additional readings*
 
-- Fenton (2011), [Improve statistics in court](https://www.nature.com/articles/479036a)
+- Fenton (2011), [Improve Statistics in Court](https://www.nature.com/articles/479036a)
 
 - Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 1 and 2](https://plato.stanford.edu/entries/legal-probabilism/#ProbTool)
 
@@ -325,15 +336,15 @@ the defendant is guilty? We will see a few different probabilistic measures of t
 
 **Week 6: Probability and decisions**
 
-Once the evidence has been presented, a decision must be made. 
-The law provides decision criteria in the form of standard of proofs, for example, convict only if the defendant's guilt was established beyond a reasonable doubt. Because these proof standard are not precise, probabilists have translated them in the more precise language of probability and statistics, but the usefulness of this translation remains controversial. Eliminating all reasonable doubts about someone's guilt seems to require more than establishing a high probability of guilt.
+Once the evidence has been presented and evaluated, a decision must be made. 
+To this end, legal standard of proof serves as decision criteria, for example, convict only if the defendant's guilt was established beyond a reasonable doubt. Since these standards are not precise, legal probabilists have translated them in the more precise language of probability and statistics. The usefulness of this translation is debated because eliminating all reasonable doubts about someone's guilt seems to require more than establishing a high probability of guilt.
 
 
 *Primary readings*
 
 - Gardiner (2019), [The Reasonable and the Relevant: Legal Standards of Proof](https://philarchive.org/rec/GARTRA-9)
 
-- Redmayne (2008),[Exploring the Proof Paradoxes](https://www.cambridge.org/core/journals/legal-theory/article/abs/exploring-the-proof-paradoxes/AB54733DCA886ED0BB43156D98F5BBEE)
+- Redmayne (2008), [Exploring the Proof Paradoxes](https://www.cambridge.org/core/journals/legal-theory/article/abs/exploring-the-proof-paradoxes/AB54733DCA886ED0BB43156D98F5BBEE)
 
 *Additional readings*
 
@@ -364,11 +375,11 @@ prosecutor's case against the defendant. Eyewitness evidence is not numerical
 on its face---it consists of qualitative statements "I saw this or that". 
 However, a growing body of research in psychology and law has deployed the tools of probability 
 and statistics to assess the value of eyewitness evidence. While some studies emphasizes its many pitfalls, more recent studies 
-offers a more complicated picture. 
+offers a more nuanced picture. 
 
 *Primary readings*
 
-- Loftus
+- Loftus and Palmer (1974), [Reconstruction of Auto-mobile Destruction: An example of the Interaction Between Language and Memory](https://www.demenzemedicinagenerale.net/images/mens-sana/AutomobileDestruction.pdf)
 
 - Wixted and Wells (2017), [The Relationship Between Eyewitness Confidence and Identification Accuracy: A New Synthesis](https://journals.sagepub.com/stoken/default+domain/2X3HtwVgmHH7cCakgVgq/full)
 
@@ -379,16 +390,16 @@ offers a more complicated picture.
 ## 10/17
 
 
-**Week 9: Beyond the Witness?**
+**Week 9: Beyond the witness?**
 
 
 When evidence is presented at trial, it will be scrutinized 
 and tested against objections by both parties. This cross-examination is 
 directed at witnesses, so their live testimonies play 
 a central role. But new developments in technology have challenged 
-this testimony-centered approach. How to treat machine evidence, such as 
-risk assessment and AI diagnostic tools, or software to interpret DNA evidence?
-Should the existing approach be abandoned?
+this testimony-centered approach. How to handle machine evidence, such as 
+risk assessments, AI diagnostic tools, or software that interprets DNA evidence?
+Should the testimony-centered approach be abandoned?
 
 *Primary readings*
 
@@ -407,7 +418,7 @@ Should the existing approach be abandoned?
 
 **Week 10: Aggregating evidence**
 
-Legal cases often comprise multiple pieces of evidence, sometimes conflicting, presented by each side to advance their arguments for or against the defendant. Can probability and statistics help to put them together, weigh their strengths and weaknesses and yield a unified picture? This is where legal probabilism faces significant challenges, both practical and theoretical.  
+Legal cases often comprise multiple pieces of evidence, sometimes conflicting, presented by each side to advance their arguments. Can probability and statistics help to put them together, weigh their strengths and weaknesses, and yield a unified picture? This is where legal probabilism faces significant challenges.  
 
 *Primary readings*
 
@@ -419,15 +430,15 @@ Legal cases often comprise multiple pieces of evidence, sometimes conflicting, p
 
 - Dawid (1987), The Difficulty About Conjunction 
 
-- Haack (2014), Legal Probabilism: An Epistemological Dissent - *Check canvas* 
+- Haack (2014), Legal Probabilism: An Epistemological Dissent  
 
 
 ## 10/31
 
 
-**Week 11: The Story Model and Bayesian Networks**
+**Week 11: The story model**
 
-A prominent alternative to the probabilistic approach to evidence evaluation is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process of story construction? Bayesian networks have been used to calculate numerically the weight of large bodies of evidence. We are still far from a mature theory, but some progress has been made. 
+An alternative to the probabilistic approach to evidence evaluation is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but holistically by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process? Bayesian networks have been used to calculate numerically the weight of complex bodies of evidence.  
 
 
 *Primary readings*
@@ -438,39 +449,58 @@ A prominent alternative to the probabilistic approach to evidence evaluation is 
 
 *Additional readings*
 
-- Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 3](https://plato.stanford.edu/entries/legal-probabilism/#BayeNetwForLegaAppl)
+- Dahlman and Mackor (2019), [Coherence and Probability in Legal Evidence](https://lucris.lub.lu.se/ws/portalfiles/portal/75903137/Coherence_and_probability_in_legal_evidence.pdf)
 
-- Dahlman and Mackor (2019), [Coherence and probability in legal evidence](https://lucris.lub.lu.se/ws/portalfiles/portal/75903137/Coherence_and_probability_in_legal_evidence.pdf)
+- Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 3](https://plato.stanford.edu/entries/legal-probabilism/#BayeNetwForLegaAppl)
 
 
 ## 11/07
 
 
-**Week 12: Relative Plausibility**
+**Week 12: Relative plausibility**
+
+Another alternative to the probabilistic approach is 
+the theory of relative plausibility. On this theory, trial decisions 
+are guided by comparing the relative plausibility of two competing explanations 
+of the evidence. The explanations are put forward by the parties at trial and the 
+more plausible should be prevail. This comparative approach tames the complexity 
+of trial decision-making in which alternative possibilities about what could 
+have happened are potentially infinite in number and cannot be examined in their entirety. 
+
 
 *Primary readings*
 
-- Pardo and Alle (2007), [Juridical proof and Inference and the Best Explanatiopn](https://sites.pitt.edu/~jdnorton/teaching/2682_confirmation/2021/slides/evidence_in_science/Pardo_Allen_2007.pdf)
+- Pardo and Alle (2007), [Juridical Proof and Inference and the Best Explanatiopn](https://sites.pitt.edu/~jdnorton/teaching/2682_confirmation/2021/slides/evidence_in_science/Pardo_Allen_2007.pdf)
 
 - Allen (2017), [The Nature of Juridical Proof: Probability as a Tool in Plausible Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2982121)
 
 *Additional readings*
 
-- Steele and Stefansson (2021), [Belief Revision for Growing Awareness Get access Arrow](https://philarchive.org/rec/STEBRF-6)
+- Steele and Stefansson (2021), [Belief Revision for Growing Awareness](https://philarchive.org/rec/STEBRF-6)
 
-- Dahlman (2024), [What does it Mean to be Plausible?](https://lucris.lub.lu.se/ws/portalfiles/portal/190369771/Dahlman_What_does_it_mean_to_be_plausible_QF_2024_elektroniskt_s_rtryck_.pdf)
+- Dahlman (2024), [What Does it Mean to be Plausible?](https://lucris.lub.lu.se/ws/portalfiles/portal/190369771/Dahlman_What_does_it_mean_to_be_plausible_QF_2024_elektroniskt_s_rtryck_.pdf)
 
 
 ## 11/14
 
 **Week 13: Wrongful convictions**
 
+We have examined how probability and statistics help to evaluate evidence, piecemeal or in the aggregate, and how they can guide trial decisions. But they can also be used as tools for assessing how 
+the trial system performs as a whole, for example, how accurate it is and how often 
+innocent people are convicted. Some estimate that the rate of 
+wrongful convictions is about 3-5%. 
 
 *Primary readings*
 
-TBA
+- Risinger (2007), [Innocents Convicted](https://www.marcellodibello.com/innocent/resources/risinger.pdf)
 
 
+*Additional readings*
+
+- Simon (2011), [Limited Diagnosticity of Criminal Trials](https://www.marcellodibello.com/innocent/resources/Simon-Diagnosticity2011.pdf)
+
+
+Sangero and Halpert (2007), [Why a Conviction Should Not Be Based on a Single Piece of Evidence](https://www.marcellodibello.com/innocent/resources/sangero.pdf)
 
 ## 11/21
 
@@ -490,7 +520,18 @@ Students will workshop their research papers by giving short presentations accom
 **Week 16: Conclusion**
 
 What have we learned? What questions are still left open and 
-what lines of inquiry seemed more promising?
+what lines of inquiry seemed more promising? Is legal probabilism 
+a good idea or a big mistake?
+
+*Primary readings*
+
+- Tribe, [Trial by Methmatics](https://www.maths.ed.ac.uk/~v1ranick/dreyfus/tribe.pdf) 
+
+- Hedden and Colyvan (2019), [Legal Probabilism: A Qualified Defence](http://www.colyvan.com/papers/legalprobabilism) 
+
+*Additional readings*
+
+- Harcourt (2018), [The Systems Fallacy: A Genealogy and Critique of Public Policy and Cost-Benefit Analysis](https://scholarship.law.columbia.edu/faculty_scholarship/2632/)
 
 
 **Third essay or research paper due December 1st**
