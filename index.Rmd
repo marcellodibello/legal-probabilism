@@ -202,7 +202,6 @@ included in the course materials.
 *Please come talk to me before you start working on the research paper.* 
 
 
-
 # Handouts 
 
 # Schedule 
@@ -300,34 +299,13 @@ were used---actually, abused!---to conclude that a wrongdoing occurred.
 
 ## 9/19
 
+**Week 5: Probability of Guilt?**
 
+We have seen how different types of evidence 
+can be evaluated using probability and statistics. But what is the 
+goal of this evaluation? Is it to arrive at a probability that 
+the defendant is guilty? We will see a few different probabilistic measures of the value of the evidence.
 
-**Week 5: Eyewitness identifications**
-
-Eyewitness testimony is often a central piece in a 
-prosecutor's case against the defendant. Eyewitness evidence is not numerical 
-on its face---it consists of qualitative statements "I saw this or that". 
-However, a growing body of research in psychology and law has deployed the tools of probability 
-and statistics to assess the value of eyewitness evidence and address questions such as, how reliable are reports by eyewitnesses? 
-Does reliability increase with the subjective confidence of a witness? While some studies paint 
-a rather negative picture about eyewitness evidence and its many pitfalls, more recent studies 
-offers a more complicated picture. An eyewitness identification can be very strong evidence of guilt.
-
-*Primary readings*
-
-- Loftus
-
-- Wixted and Wells (2017), [The Relationship Between Eyewitness Confidence and Identification Accuracy: A New Synthesis](https://journals.sagepub.com/stoken/default+domain/2X3HtwVgmHH7cCakgVgq/full)
-
-
-*Additional readings*
-
-## 9/26
-
-
-**Week 6: Probability of Guilt?**
-
-We have seen how different types of evidence can be evaluated using probability and statistics. But what is the ultimate goal of this evaluation? Is it to arrive at a probability that the defendant is guilty?  
 
 *Primary readings*
 
@@ -340,7 +318,30 @@ We have seen how different types of evidence can be evaluated using probability 
 
 - Fenton (2011), [Improve statistics in court](https://www.nature.com/articles/479036a)
 
-- Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 1](https://plato.stanford.edu/entries/legal-probabilism/#ProbTool)
+- Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 1 and 2](https://plato.stanford.edu/entries/legal-probabilism/#ProbTool)
+
+## 9/26
+
+
+**Week 6: Probability and decisions**
+
+Once the evidence has been presented, a decision must be made. 
+The law provides decision criteria in the form of standard of proofs, for example, convict only if the defendant's guilt was established beyond a reasonable doubt. Because these proof standard are not precise, probabilists have translated them in the more precise language of probability and statistics, but the usefulness of this translation remains controversial. Eliminating all reasonable doubts about someone's guilt seems to require more than establishing a high probability of guilt.
+
+
+*Primary readings*
+
+- Gardiner (2019), [The Reasonable and the Relevant: Legal Standards of Proof](https://philarchive.org/rec/GARTRA-9)
+
+- Redmayne (2008),[Exploring the Proof Paradoxes](https://www.cambridge.org/core/journals/legal-theory/article/abs/exploring-the-proof-paradoxes/AB54733DCA886ED0BB43156D98F5BBEE)
+
+*Additional readings*
+
+- Kaplan (1968), [Decision Theory and the Factfinding Process](https://www.jstor.org/stable/1227491)
+
+- Hamer (2004), [Probabilistic Standards of Proof](https://www.marcellodibello.com/innocent/resources/hamer.pdf)
+
+<!-- Condorcet -->
 
 
 
@@ -355,7 +356,56 @@ We have seen how different types of evidence can be evaluated using probability 
 ## 10/10
 
 
-**Week 8: Aggregating evidence**
+
+**Week 8: Eyewitness identifications**
+
+Eyewitness testimony is often the central piece of a 
+prosecutor's case against the defendant. Eyewitness evidence is not numerical 
+on its face---it consists of qualitative statements "I saw this or that". 
+However, a growing body of research in psychology and law has deployed the tools of probability 
+and statistics to assess the value of eyewitness evidence. While some studies emphasizes its many pitfalls, more recent studies 
+offers a more complicated picture. 
+
+*Primary readings*
+
+- Loftus
+
+- Wixted and Wells (2017), [The Relationship Between Eyewitness Confidence and Identification Accuracy: A New Synthesis](https://journals.sagepub.com/stoken/default+domain/2X3HtwVgmHH7cCakgVgq/full)
+
+
+*Additional readings*
+
+
+## 10/17
+
+
+**Week 9: Beyond the Witness?**
+
+
+When evidence is presented at trial, it will be scrutinized 
+and tested against objections by both parties. This cross-examination is 
+directed at witnesses, so their live testimonies play 
+a central role. But new developments in technology have challenged 
+this testimony-centered approach. How to treat machine evidence, such as 
+risk assessment and AI diagnostic tools, or software to interpret DNA evidence?
+Should the existing approach be abandoned?
+
+*Primary readings*
+
+- Cheng and Nunn (2019), [Beyond the Witness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3242588)
+
+- Roth (2017), [Machine Testimony](https://www.yalelawjournal.org/pdf/RothFinal_c4o97on1.pdf)
+
+*Additional readings*
+
+- Helmus and others (2022), [Static-99R: Strengths, Limitations, Predictive Accuracy Meta-Analysis, and Legal Admissibility Review](https://psycnet.apa.org/fulltext/2022-61121-001.html)
+
+- Thompson (2023), [Uncertainty in probabilistic genotyping of low template DNA: A case study comparing STRMix and TrueAllele](https://onlinelibrary.wiley.com/doi/full/10.1111/1556-4029.15225)
+
+## 10/24
+
+
+**Week 10: Aggregating evidence**
 
 Legal cases often comprise multiple pieces of evidence, sometimes conflicting, presented by each side to advance their arguments for or against the defendant. Can probability and statistics help to put them together, weigh their strengths and weaknesses and yield a unified picture? This is where legal probabilism faces significant challenges, both practical and theoretical.  
 
@@ -369,13 +419,13 @@ Legal cases often comprise multiple pieces of evidence, sometimes conflicting, p
 
 - Dawid (1987), The Difficulty About Conjunction 
 
-- Di Bello and Urbaniak
+- Haack (2014), Legal Probabilism: An Epistemological Dissent - *Check canvas* 
 
-- Haack
 
-## 10/17
+## 10/31
 
-**Week 9: The Story Model and Bayesian Networks**
+
+**Week 11: The Story Model and Bayesian Networks**
 
 A prominent alternative to the probabilistic approach to evidence evaluation is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process of story construction? Bayesian networks have been used to calculate numerically the weight of large bodies of evidence. We are still far from a mature theory, but some progress has been made. 
 
@@ -390,68 +440,25 @@ A prominent alternative to the probabilistic approach to evidence evaluation is 
 
 - Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 3](https://plato.stanford.edu/entries/legal-probabilism/#BayeNetwForLegaAppl)
 
-
-
-## 10/24
-
-
-**Week 10: Cross-examination**
-
-
-When evidence is presented at trial, it will be scrutinized 
-and tested against objections by both parties. The legal scholar Henry Wigmore regarded 
-this cross-examination as "the greatest legal engine ever invented for the discovery of truth".
-Cross-examination is directed at witness---so the live testimony of 
-witnesses plays a central role. But new developments in technology have challenge 
-this testimony-focus approach. How to treat machine evidence, such as 
-a risk assessment tool, an AI diagnostic tool, or software to intepret DNA evidence?
-
-
-
-*Primary readings*
-
-- Cheng
-
-- Roth
-
-*Additional readings*
-
-
-## 10/31
-
-
-**Week 11: Probability and decisions**
-
-Once the evidence has been presented, evaluated and cross-examined, a decision must be made. 
-Did the defendant commit the wrongdoing or not? The law provides decision criteria in the form of standard of proofs, for example, in criminal trial the standard is to convict the defendant only if guilt is established beyond a reasonable doubt. Because these legal standard are not precise, probabilists have translated them in the more precise language of probability and 
-statistics, but this translation has remained controversial. Eliminating all reasonable doubts about someone's guilt seems to require more than just concluding that the defendant'a guilt is very probably.
-
-
-*Primary readings*
-
-- Gardiner
-
-- Redmayne (2008),[Exploring the Proof Paradoxes](https://www.cambridge.org/core/journals/legal-theory/article/abs/exploring-the-proof-paradoxes/AB54733DCA886ED0BB43156D98F5BBEE)
-
-*Additional readings*
-
-- Kaplan
-
-- Hamer
-
-<!-- Condorcet -->
+- Dahlman and Mackor (2019), [Coherence and probability in legal evidence](https://lucris.lub.lu.se/ws/portalfiles/portal/75903137/Coherence_and_probability_in_legal_evidence.pdf)
 
 
 ## 11/07
 
 
-**Week 12: Against legal probabilism**
-
+**Week 12: Relative Plausibility**
 
 *Primary readings*
 
-- Allen and Pardo
+- Pardo and Alle (2007), [Juridical proof and Inference and the Best Explanatiopn](https://sites.pitt.edu/~jdnorton/teaching/2682_confirmation/2021/slides/evidence_in_science/Pardo_Allen_2007.pdf)
 
+- Allen (2017), [The Nature of Juridical Proof: Probability as a Tool in Plausible Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2982121)
+
+*Additional readings*
+
+- Steele and Stefansson (2021), [Belief Revision for Growing Awareness Get access Arrow](https://philarchive.org/rec/STEBRF-6)
+
+- Dahlman (2024), [What does it Mean to be Plausible?](https://lucris.lub.lu.se/ws/portalfiles/portal/190369771/Dahlman_What_does_it_mean_to_be_plausible_QF_2024_elektroniskt_s_rtryck_.pdf)
 
 
 ## 11/14
@@ -461,7 +468,7 @@ statistics, but this translation has remained controversial. Eliminating all rea
 
 *Primary readings*
 
-- Risinger 
+TBA
 
 
 
@@ -470,7 +477,7 @@ statistics, but this translation has remained controversial. Eliminating all rea
 **Week 14:  Workshop**
 
 
-Students will workshop their research papers by giving short presentations accompanied by either a handout or slides and followed by Q&A. Each presenter will have 30 minutes to be split between the presentation itself and Q&A at the discretion of the presenter. The list of presenters is below.  
+Students will workshop their research papers by giving short presentations accompanied by either a handout or slides and followed by Q&A. Each presenter will have 30 minutes to be split between the presentation itself and Q&A at the discretion of the presenter. The list of presenters is TBA.  
 
 
 ## 11/28
@@ -484,8 +491,6 @@ Students will workshop their research papers by giving short presentations accom
 
 What have we learned? What questions are still left open and 
 what lines of inquiry seemed more promising?
-
-- [Handout - Week 15](https://www.marcellodibello.com/race-causality-discrimination/handout/conclusion.html)
 
 
 **Third essay or research paper due December 1st**
