@@ -360,9 +360,13 @@ To this end, legal standard of proof serves as decision criteria, for example, c
 
 **Week 7: Knowledge and legal proof** *(remote class)*
 
+Epistemologists are concerned with knowledge and its value. Knowledge requires more than high probability, as lottery propositions suggest. Could the notion of knowledge help us better understand the standards of proof in legal cases?
+
 *Primary readings*
 
 - Moss (2023), [Knowledge and Legal Proof](https://websites.umich.edu/~ssmoss/Moss%20-%20Knowledge%20and%20Legal%20Proof.pdf)
+
+*Additional readings*
 
 - Papineau (2021), [The Disvalue of Knowledge](https://link.springer.com/article/10.1007/s11229-019-02405-4)
 
