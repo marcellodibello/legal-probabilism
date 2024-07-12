@@ -1,7 +1,7 @@
 
 ---
 title: "PHI 420/555 - Legal Probabilism"
-subtitle: "Fall 23"
+subtitle: "Fall 24"
 author: "[Marcello Di Bello](https://www.marcellodibello.com/)  - mdibello@asu.edu"
 output:
     rmdformats::html_clean:
