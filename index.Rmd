@@ -116,7 +116,7 @@ Office hours: Thursday after class or by appointment
 
 # Topic
 
-Legal probabilism is an ongoing research program that aims to harness the powers of probability theory to analyze, model and improve the evaluation of evidence and the process of decision-making in trial proceedings.  This sounds promising, but significant hurdles exist in carrying out this program, and many have criticized it. These critiques range from difficulties in assessing the probability of someone’s criminal or civil liability to the dehumanization of trial decisions to misconstruing how the process of evidence evaluation and decision-making takes place in trial proceedings. The seminar examines these current debates and their relevance to larger questions about AI and the human future. 
+Legal probabilism is an ongoing research program that aims to harness the powers of probability theory to analyze, model and improve the evaluation of evidence and the process of decision-making in trial proceedings.  Despite its promise, significant hurdles exist in carrying out this program, and many have criticized it. These critiques range from difficulties in assessing the probability of someone’s criminal or civil liability to the dehumanization of trial decisions to misconstruing how the process of evidence evaluation and decision-making takes place in trial proceedings. The seminar examines these current debates and their relevance to larger questions about AI and the human future. 
 
 # Objectives
 
@@ -374,97 +374,7 @@ Epistemologists are concerned with knowledge and its value. Knowledge requires m
 ## 10/10
 
 
-
-**Week 8: Eyewitness identifications**
-
-Eyewitness testimony is often the central piece of a 
-prosecutor's case against the defendant. Eyewitness evidence is not numerical 
-on its face---it consists of qualitative statements "I saw this or that". 
-However, a growing body of research in psychology and law has deployed the tools of probability 
-and statistics to assess the value of eyewitness evidence. While some studies emphasize its many pitfalls, more recent studies 
-offer a more nuanced picture. 
-
-*Primary readings*
-
-- Loftus and Palmer (1974), [Reconstruction of Auto-mobile Destruction: An example of the Interaction Between Language and Memory](https://www.demenzemedicinagenerale.net/images/mens-sana/AutomobileDestruction.pdf)
-
-- Wixted and Wells (2017), [The Relationship Between Eyewitness Confidence and Identification Accuracy: A New Synthesis](https://journals.sagepub.com/stoken/default+domain/2X3HtwVgmHH7cCakgVgq/full)
-
-
-*Additional readings*
-
-
-## 10/17
-
-
-**Week 9: Beyond the witness?**
-
-
-When evidence is presented at trial, it will be scrutinized 
-and tested against objections by both parties. This cross-examination is 
-directed at witnesses, so their live testimonies play 
-a central role. But new developments in technology have challenged 
-this testimony-centered approach. How to handle machine evidence, such as 
-risk assessments, AI diagnostic tools, or softwares that interpret DNA evidence?
-Should the testimony-centered approach be abandoned?
-
-*Primary readings*
-
-- Cheng and Nunn (2019), [Beyond the Witness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3242588)
-
-- Roth (2017), [Machine Testimony](https://www.yalelawjournal.org/pdf/RothFinal_c4o97on1.pdf)
-
-*Additional readings*
-
-- Helmus and others (2022), [Static-99R: Strengths, Limitations, Predictive Accuracy Meta-Analysis, and Legal Admissibility Review](https://psycnet.apa.org/fulltext/2022-61121-001.html)
-
-- Thompson (2023), [Uncertainty in probabilistic genotyping of low template DNA: A case study comparing STRMix and TrueAllele](https://onlinelibrary.wiley.com/doi/full/10.1111/1556-4029.15225)
-
-## 10/24
-
-
-**Week 10: Aggregating evidence**
-
-Legal cases often comprise multiple pieces of evidence, sometimes conflicting, presented by each side to advance their arguments. Can probability and statistics help to put them together, weigh their strengths and weaknesses, and yield a unified picture? This is where legal probabilism faces significant challenges, one of the most discussed being the difficulty about conjunction.
-
-*Primary readings*
-
-- Cohen (1977), 'The Difficulty about Conjunction', in The Probable and The Provable - *check Canvas*
-
-- Spottswood (2016), [Unraveling the Conjunction Paradox](https://academic.oup.com/lpr/article/15/4/259/2733187)
-
-*Additional readings*
-
-- Dawid (1987), The Difficulty About Conjunction 
-
-- Haack (2014), Legal Probabilism: An Epistemological Dissent  
-
-
-## 10/31
-
-
-**Week 11: The story model**
-
-An alternative to the probabilistic approach to evidence evaluation is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but holistically by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process? Bayesian networks have been used to calculate numerically the weight of complex bodies of evidence.  
-
-
-*Primary readings*
-
-- Pennington and Hastie (1993), 'The story model for juror decision making', in Inside the Juror: The Psychology of Juror Decision Making - *check canvas*
-
-- Fenton and other (2019), [Analyzing the Simonshaven Case Using Bayesian Networks](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417)
-
-*Additional readings*
-
-- Dahlman and Mackor (2019), [Coherence and Probability in Legal Evidence](https://lucris.lub.lu.se/ws/portalfiles/portal/75903137/Coherence_and_probability_in_legal_evidence.pdf)
-
-- Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 3](https://plato.stanford.edu/entries/legal-probabilism/#BayeNetwForLegaAppl)
-
-
-## 11/07
-
-
-**Week 12: Relative plausibility**
+**Week 8: Relative plausibility**
 
 Another alternative to the probabilistic approach is 
 the theory of relative plausibility. On this theory, trial decisions 
@@ -488,6 +398,100 @@ have happened are potentially infinite in number and cannot be examined in their
 - Dahlman (2024), [What Does it Mean to be Plausible?](https://lucris.lub.lu.se/ws/portalfiles/portal/190369771/Dahlman_What_does_it_mean_to_be_plausible_QF_2024_elektroniskt_s_rtryck_.pdf)
 
 
+
+## 10/17
+
+**Week 9: The story model**
+
+An alternative to the probabilistic approach to evidence evaluation is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but holistically by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process? Bayesian networks have been used to calculate numerically the weight of complex bodies of evidence.  
+
+
+*Primary readings*
+
+- Pennington and Hastie (1993), 'The story model for juror decision making', in Inside the Juror: The Psychology of Juror Decision Making - *check canvas*
+
+- Fenton and other (2019), [Analyzing the Simonshaven Case Using Bayesian Networks](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417)
+
+*Additional readings*
+
+- Dahlman and Mackor (2019), [Coherence and Probability in Legal Evidence](https://lucris.lub.lu.se/ws/portalfiles/portal/75903137/Coherence_and_probability_in_legal_evidence.pdf)
+
+- Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 3](https://plato.stanford.edu/entries/legal-probabilism/#BayeNetwForLegaAppl)
+
+
+
+
+## 10/24
+
+
+**Week 10: The Conjunction Paradox**
+
+Legal cases often require that multiple propositions be established. For example, to prove a bribery charge, a prosecutor needs to establish several elements: (i) a public official received the bribe; (ii) the bribe was something of value; (iii) the public official carried out an official act because of the bribe; (iv) the bribing party had intent to bribe. Can probability and statistics help to put them together, and yield a unified picture? This is where legal probabilism faces significant challenges, one of the most discussed being the difficulty about conjunction.
+
+*Primary readings*
+
+- Cohen (1977), 'The Difficulty about Conjunction', in The Probable and The Provable - *check Canvas*
+
+- Spottswood (2016), [Unraveling the Conjunction Paradox](https://academic.oup.com/lpr/article/15/4/259/2733187)
+
+*Additional readings*
+
+- Dawid (1987), The Difficulty About Conjunction 
+
+- Haack (2014), Legal Probabilism: An Epistemological Dissent  
+
+
+## 10/31
+
+**Week 11: Beyond the witness?**
+
+
+When evidence is presented at trial, it will be scrutinized 
+and tested against objections by both parties. This cross-examination is 
+directed at witnesses, so their live testimonies play 
+a central role. But new developments in technology have challenged 
+this testimony-centered approach. How to handle machine evidence, such as 
+risk assessments, AI diagnostic tools, or softwares that interpret DNA evidence?
+Should the testimony-centered approach be abandoned?
+
+*Primary readings*
+
+- Cheng and Nunn (2019), [Beyond the Witness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3242588)
+
+- Roth (2017), [Machine Testimony](https://www.yalelawjournal.org/pdf/RothFinal_c4o97on1.pdf)
+
+*Additional readings*
+
+- Helmus and others (2022), [Static-99R: Strengths, Limitations, Predictive Accuracy Meta-Analysis, and Legal Admissibility Review](https://psycnet.apa.org/fulltext/2022-61121-001.html)
+
+- Thompson (2023), [Uncertainty in probabilistic genotyping of low template DNA: A case study comparing STRMix and TrueAllele](https://onlinelibrary.wiley.com/doi/full/10.1111/1556-4029.15225)
+
+
+
+
+## 11/07
+
+
+**Week 12: Eyewitness identifications**
+
+Eyewitness testimony is often the central piece of a 
+prosecutor's case against the defendant. Eyewitness evidence is not numerical 
+on its face---it consists of qualitative statements "I saw this or that". 
+However, a growing body of research in psychology and law has deployed the tools of probability 
+and statistics to assess the value of eyewitness evidence. While some studies emphasize its many pitfalls, more recent studies 
+offer a more nuanced picture. 
+
+*Primary readings*
+
+- Loftus and Palmer (1974), [Reconstruction of Auto-mobile Destruction: An example of the Interaction Between Language and Memory](https://www.demenzemedicinagenerale.net/images/mens-sana/AutomobileDestruction.pdf)
+
+- Wixted and Wells (2017), [The Relationship Between Eyewitness Confidence and Identification Accuracy: A New Synthesis](https://journals.sagepub.com/stoken/default+domain/2X3HtwVgmHH7cCakgVgq/full)
+
+
+*Additional readings*
+
+
+
 ## 11/14
 
 **Week 13: Wrongful convictions**
@@ -507,7 +511,7 @@ wrongful convictions is about 3-5%.
 - Simon (2011), [Limited Diagnosticity of Criminal Trials](https://www.marcellodibello.com/innocent/resources/Simon-Diagnosticity2011.pdf)
 
 
-Sangero and Halpert (2007), [Why a Conviction Should Not Be Based on a Single Piece of Evidence](https://www.marcellodibello.com/innocent/resources/sangero.pdf)
+- Sangero and Halpert (2007), [Why a Conviction Should Not Be Based on a Single Piece of Evidence](https://www.marcellodibello.com/innocent/resources/sangero.pdf)
 
 ## 11/21
 
