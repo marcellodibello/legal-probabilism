@@ -305,7 +305,10 @@ were used---actually, abused!---to conclude that a wrongdoing occurred.
 
 ## 9/19
 
+**Take-home exam due**
+
 **Week 5: Probability of guilt?**
+
 
 We have seen how different types of evidence 
 can be evaluated using probability and statistics. But what is the 
@@ -368,15 +371,16 @@ Epistemologists are concerned with knowledge and its value. Knowledge requires m
 - Papineau (2021), [The Disvalue of Knowledge](https://link.springer.com/article/10.1007/s11229-019-02405-4)
 
 
-**First essay due**
 
 
 ## 10/10
 
+**First essay due**
+
 
 **Week 8: Relative plausibility**
 
-Another alternative to the probabilistic approach is 
+A prominent alternative to the probabilistic approach is 
 the theory of relative plausibility. On this theory, trial decisions 
 are guided by comparing the relative plausibility of two competing explanations 
 of the evidence. The explanations are put forward by the parties at trial and the 
@@ -403,12 +407,12 @@ have happened are potentially infinite in number and cannot be examined in their
 
 **Week 9: The story model**
 
-An alternative to the probabilistic approach to evidence evaluation is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but holistically by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process? Bayesian networks have been used to calculate numerically the weight of complex bodies of evidence.  
+A close cousin of the theory of relative plausibility is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but holistically by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process? Bayesian networks have been used to calculate numerically the weight of complex bodies of evidence.  We will discuss the prospects of using Bayesian networks for evaluating evidence in trial proceedings.  
 
 
 *Primary readings*
 
-- Pennington and Hastie (1993), 'The story model for juror decision making', in Inside the Juror: The Psychology of Juror Decision Making - *check canvas*
+- Pennington and Hastie (1993), 'The Story Model for Juror Decision Making', in Inside the Juror: The Psychology of Juror Decision Making - *check canvas*
 
 - Fenton and other (2019), [Analyzing the Simonshaven Case Using Bayesian Networks](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417)
 
@@ -426,7 +430,7 @@ An alternative to the probabilistic approach to evidence evaluation is the story
 
 **Week 10: The Conjunction Paradox**
 
-Legal cases often require that multiple propositions be established. For example, to prove a bribery charge, a prosecutor needs to establish several elements: (i) a public official received the bribe; (ii) the bribe was something of value; (iii) the public official carried out an official act because of the bribe; (iv) the bribing party had intent to bribe. Can probability and statistics help to put them together, and yield a unified picture? This is where legal probabilism faces significant challenges, one of the most discussed being the difficulty about conjunction.
+Legal cases often require that multiple propositions be established. For example, to establish [bribery](https://www.justice.gov/archives/jm/criminal-resource-manual-2043-comparison-elements-crimes-bribery-and-gratuities), a prosecutor needs to establish several elements: (i) a public official received the bribe; (ii) the bribe was something of value; (iii) the public official carried out an official act because of the bribe; (iv) the bribing party had intent to bribe. Can probability and statistics help to put them together, and yield a unified picture? This is where legal probabilism faces significant challenges, one of the most discussed being the difficulty about conjunction.
 
 *Primary readings*
 
@@ -442,6 +446,9 @@ Legal cases often require that multiple propositions be established. For example
 
 
 ## 10/31
+
+**Second essay due**
+
 
 **Week 11: Beyond the witness?**
 
@@ -545,7 +552,7 @@ a good idea or a big mistake?
 - Harcourt (2018), [The Systems Fallacy: A Genealogy and Critique of Public Policy and Cost-Benefit Analysis](https://scholarship.law.columbia.edu/faculty_scholarship/2632/)
 
 
-**Third essay or research paper due December 1st**
+**Third essay or research paper due December 5th**
 
 # Title IX 
 
