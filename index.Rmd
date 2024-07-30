@@ -265,7 +265,9 @@ There is little doubt that match evidence should be used at trial as evidence of
 *Primary readings*
 
 
-- [United States v. Vue](https://casetext.com/case/us-v-vue) (1994)
+<!-- [United States v. Vue](https://casetext.com/case/us-v-vue) (1994)-->
+
+- Pundik (2017), [Freedom and Generalization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2556690)
 
 - Redmayne (2003), [The Relevance of Bad Character](https://www.cambridge.org/core/journals/cambridge-law-journal/article/abs/relevance-of-bad-character/8876D6D820853C4B38E5914494682BA1)
 
@@ -342,15 +344,18 @@ To this end, legal standard of proof serves as decision criteria, for example, c
 
 *Primary readings*
 
-- Gardiner (2019), [The Reasonable and the Relevant: Legal Standards of Proof](https://philarchive.org/rec/GARTRA-9)
+- Smith (2017), [When does Evidence Suffice for Conviction?](https://academic.oup.com/mind/article/127/508/1193/4555414)
 
-- Redmayne (2008), [Exploring the Proof Paradoxes](https://www.cambridge.org/core/journals/legal-theory/article/abs/exploring-the-proof-paradoxes/AB54733DCA886ED0BB43156D98F5BBEE)
+- Gardiner (2019), [The Reasonable and the Relevant: Legal Standards of Proof](https://philarchive.org/rec/GARTRA-9)
 
 *Additional readings*
 
 - Kaplan (1968), [Decision Theory and the Factfinding Process](https://www.jstor.org/stable/1227491)
 
-- Hamer (2004), [Probabilistic Standards of Proof](https://www.marcellodibello.com/innocent/resources/hamer.pdf)
+- Redmayne (2008), [Exploring the Proof Paradoxes](https://www.cambridge.org/core/journals/legal-theory/article/abs/exploring-the-proof-paradoxes/AB54733DCA886ED0BB43156D98F5BBEE)
+
+
+<!-- Hamer (2004), [Probabilistic Standards of Proof](https://www.marcellodibello.com/innocent/resources/hamer.pdf)-->
 
 <!-- Condorcet -->
 
@@ -410,6 +415,8 @@ have happened are potentially infinite in number and cannot be examined in their
 A close cousin of the theory of relative plausibility is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but holistically by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process? Bayesian networks have been used to calculate numerically the weight of complex bodies of evidence.  We will discuss the prospects of using Bayesian networks for evaluating evidence in trial proceedings.  
 
 
+
+
 *Primary readings*
 
 - Pennington and Hastie (1993), 'The Story Model for Juror Decision Making', in Inside the Juror: The Psychology of Juror Decision Making - *check canvas*
@@ -431,6 +438,12 @@ A close cousin of the theory of relative plausibility is the story model. Accord
 **Week 10: The Conjunction Paradox**
 
 Legal cases often require that multiple propositions be established. For example, to establish [bribery](https://www.justice.gov/archives/jm/criminal-resource-manual-2043-comparison-elements-crimes-bribery-and-gratuities), a prosecutor needs to establish several elements: (i) a public official received the bribe; (ii) the bribe was something of value; (iii) the public official carried out an official act because of the bribe; (iv) the bribing party had intent to bribe. Can probability and statistics help to put them together, and yield a unified picture? This is where legal probabilism faces significant challenges, one of the most discussed being the difficulty about conjunction.
+
+
+**Q&A with Emily Spottswood**
+
+The first part of the class will consist in a Q&A session with [Emily Spottswood](https://law.fsu.edu/faculty-staff/emily-spottswood), a legal scholar interested in how reforms to the rules of procedure and evidence can make civil and criminal litigation more accurate and cost-effective. Emily is the author of one of the readings assigned for today.
+
 
 *Primary readings*
 
@@ -461,6 +474,12 @@ this testimony-centered approach. How to handle machine evidence, such as
 risk assessments, AI diagnostic tools, or softwares that interpret DNA evidence?
 Should the testimony-centered approach be abandoned?
 
+
+**Q&A with Ed Cheng and Alex Nun**
+
+The first part of the class will consist in a Q&A session with [Ed Cheng](https://law.vanderbilt.edu/bio/?pid=edward-cheng), a legal scholar at interested in expert evidence, law and statistics, and remedies, and [Alex Nun](https://law.tamu.edu/faculty-staff/find-people/faculty-profiles/g-alexander-nunn), a legal scholars interested in 
+how evidentiary rules and the allocation of decisionmaking authority in the courtroom affect verdict accuracy, efficiency, and legitimacy. Ed and Alex are the authors of one of the readings assigned for today.
+
 *Primary readings*
 
 - Cheng and Nunn (2019), [Beyond the Witness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3242588)
@@ -487,6 +506,9 @@ on its face---it consists of qualitative statements "I saw this or that".
 However, a growing body of research in psychology and law has deployed the tools of probability 
 and statistics to assess the value of eyewitness evidence. While some studies emphasize its many pitfalls, more recent studies 
 offer a more nuanced picture. 
+
+
+
 
 *Primary readings*
 
