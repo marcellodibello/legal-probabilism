@@ -344,7 +344,7 @@ To this end, legal standard of proof serves as decision criteria, for example, c
 
 *Primary readings*
 
-- Smith (2017), [When does Evidence Suffice for Conviction?](https://academic.oup.com/mind/article/127/508/1193/4555414)
+- Smith (2017), [When Does Evidence Suffice for Conviction?](https://academic.oup.com/mind/article/127/508/1193/4555414)
 
 - Gardiner (2019), [The Reasonable and the Relevant: Legal Standards of Proof](https://philarchive.org/rec/GARTRA-9)
 
@@ -407,7 +407,7 @@ The first part of the class will consist in a Q&A session with [Ronald Allen](ht
 
 - Steele and Stefansson (2021), [Belief Revision for Growing Awareness](https://philarchive.org/rec/STEBRF-6)
 
-- Dahlman (2024), [What Does it Mean to be Plausible?](https://lucris.lub.lu.se/ws/portalfiles/portal/190369771/Dahlman_What_does_it_mean_to_be_plausible_QF_2024_elektroniskt_s_rtryck_.pdf)
+- Dahlman (2024), [What Does it Mean to Be Plausible?](https://lucris.lub.lu.se/ws/portalfiles/portal/190369771/Dahlman_What_does_it_mean_to_be_plausible_QF_2024_elektroniskt_s_rtryck_.pdf)
 
 
 
@@ -577,11 +577,14 @@ a good idea or a big mistake?
 
 - Tribe, [Trial by Methmatics](https://www.maths.ed.ac.uk/~v1ranick/dreyfus/tribe.pdf) 
 
-- Hedden and Colyvan (2019), [Legal Probabilism: A Qualified Defence](http://www.colyvan.com/papers/legalprobabilism) 
+- Saks and Neufeld (2011), [Convergent Evolution in Law and Science: the Structure of Decision-making under Uncertainty](https://academic.oup.com/lpr/article/10/2/133/916386)
+
 
 *Additional readings*
 
 - Harcourt (2018), [The Systems Fallacy: A Genealogy and Critique of Public Policy and Cost-Benefit Analysis](https://scholarship.law.columbia.edu/faculty_scholarship/2632/)
+
+- Hedden and Colyvan (2019), [Legal Probabilism: A Qualified Defence](http://www.colyvan.com/papers/legalprobabilism) 
 
 
 **Third essay or research paper due December 5th**
