@@ -393,10 +393,13 @@ more plausible should be prevail. This comparative approach tames the complexity
 of trial decision-making in which alternative possibilities about what could 
 have happened are potentially infinite in number and cannot be examined in their entirety. 
 
+**Q&A with Ronald Allen**
+
+The first part of the class will consist in a Q&A session with [Ronald Allen](https://www.law.northwestern.edu/faculty/profiles/ronaldallen/), a legal scholar of evidence law, criminal procedure, and constitutional law.  He was recently retained by the Tanzanian Government to assist in the reform of their evidence law. Ronald is the author of one of the readings assigned for today.
 
 *Primary readings*
 
-- Pardo and Alle (2007), [Juridical Proof and Inference and the Best Explanatiopn](https://sites.pitt.edu/~jdnorton/teaching/2682_confirmation/2021/slides/evidence_in_science/Pardo_Allen_2007.pdf)
+- Pardo and Allen (2007), [Juridical Proof and Inference and the Best Explanatiopn](https://sites.pitt.edu/~jdnorton/teaching/2682_confirmation/2021/slides/evidence_in_science/Pardo_Allen_2007.pdf)
 
 - Allen (2017), [The Nature of Juridical Proof: Probability as a Tool in Plausible Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2982121)
 
@@ -415,6 +418,11 @@ have happened are potentially infinite in number and cannot be examined in their
 A close cousin of the theory of relative plausibility is the story model. According to this model, judges and jurors evaluate the evidence presented at trial not in a piecemeal manner, but holistically by constructing a unifying narrative or story of what happened.  Can probability theory model this holistic process? Bayesian networks have been used to calculate numerically the weight of complex bodies of evidence.  We will discuss the prospects of using Bayesian networks for evaluating evidence in trial proceedings.  
 
 
+**Q&A with Mackor, Dahlman and Lagnado**
+
+The first part of the class will consist in a Q&A session with [Anne Ruth Mackor](https://research.rug.nl/en/persons/anne-ruth-mackor), 
+[Christian Dahlman](https://portal.research.lu.se/en/persons/christian-dahlman), and [David Lagnado](https://causalcognitionlab.com/dave/). 
+The first two are legal scholars and philosophers, and the third is a cognitive psychologist. They are interested in understanding how judges and jurors assess evidence in conditions of uncertainty. They are the authors of some of the readings assigned for today.
 
 
 *Primary readings*
@@ -504,8 +512,7 @@ Eyewitness testimony is often the central piece of a
 prosecutor's case against the defendant. Eyewitness evidence is not numerical 
 on its face---it consists of qualitative statements "I saw this or that". 
 However, a growing body of research in psychology and law has deployed the tools of probability 
-and statistics to assess the value of eyewitness evidence. While some studies emphasize its many pitfalls, more recent studies 
-offer a more nuanced picture. 
+and statistics to assess the value of eyewitness evidence. While some studies emphasize its many pitfalls, more recent studies offer a more nuanced picture. 
 
 
 
@@ -519,6 +526,9 @@ offer a more nuanced picture.
 
 *Additional readings*
 
+- Smith et al (2020), [Evaluating the Claim that High Confidence Implies High Accuracy in Eyewitness Identification](https://www.researchgate.net/publication/343485679_Evaluating_the_Claim_that_High_Confidence_Implies_High_Accuracy_in_Eyewitness_Identification)
+
+- Trenary (2013), [State v. Henderson: A Model for Admitting Eyewitness Identification Testimony](https://scholar.law.colorado.edu/lawreview/vol84/iss4/10/)
 
 
 ## 11/14
