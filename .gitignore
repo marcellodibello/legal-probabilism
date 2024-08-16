@@ -2,4 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+*.aus
+*.log
+*.tex
+*.synctex.gz
 lesson-plans/
