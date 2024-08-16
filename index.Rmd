@@ -222,6 +222,12 @@ discussing the infamous case People v. Collins (1968). This case started the law
 debate in the United States back in the 70ies. Along the way, we will learn the basics of 
 probability theory.
 
+*Guides, handouts and notes*
+
+- [Reading guide week #1](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek1.pdf)
+
+- Handout week #1
+
 *Primary readings*
 
 - [People v. Collins](https://www.marcellodibello.com/mathtrial/resources/Collins1968.pdf) (1968)
