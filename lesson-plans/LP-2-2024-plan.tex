@@ -1,0 +1,189 @@
+%\documentclass[11pt]{book}
+\documentclass[16pt]{article}
+%\documentclass[11pt]{amsart}
+%\documentclass[preprint,12pt]{elsarticle}
+\usepackage{multirow}
+\usepackage[all]{xy}
+\usepackage{verbatim} 
+\usepackage{endnotes}
+\usepackage{amssymb} 
+\usepackage{setspace} 
+%\doublespacing
+%\onehalfspacing
+%\usepackage{mathabx}
+\usepackage{amsmath}
+
+\usepackage{footmisc}
+\renewcommand{\footnotelayout}{\doublespacing}
+
+%\usepackage{diagrams}
+
+%\usepackage{bookman}
+%\usepackage{helvet}
+%\usepackage{palatino}
+%\usepackage{times}
+
+
+%\usepackage{charter}
+%\usepackage{avant}
+%\usepackage{chancery}
+%\usepackage{utopia}
+
+\def\setgrouptext#1{\gdef\grouptext{#1}}
+\newenvironment{groupeditems}{\begin{displaymath}\left.\vbox\bgroup\setgrouptext}{%
+  \egroup\right\rbrace\hbox{\grouptext}\end{displaymath}}
+  
+\usepackage{fancyhdr}
+
+%\pagestyle{fancy}
+
+\usepackage{sectsty}
+%\allsectionsfont{\sffamily} 
+\chapterfont{\Large \scshape}
+\sectionfont{\large \scshape }
+\subsectionfont{\normalsize \scshape}
+%\subsectionfont{\large \nohang \flushleft} 
+%\allsectionsfont{\mdseries\itshape} 
+%\sectionfont{\fontfamily{ptm}\selectfont}
+
+ %\usepackage{fullpage}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{lastpage}
+
+\usepackage{fancyhdr}
+\setlength{\headheight}{15.2pt}
+\pagestyle{fancy}
+
+%\rhead[<even output>]{\textsc{\large Dissertation Summary} --  \thepage \textit{ of}   \pageref{LastPage}}
+\rhead[<even output>]{\textsc{\small  Legal Probabilism} -- \ \thepage \textit{ of}   \pageref{LastPage}}
+%\chead[<even output>]{<odd output>}
+\lhead[<even output>]{\text{\small }}
+
+%\lfoot[<even output>]{<odd output>}
+\cfoot[<even output>]{}
+%\rfoot[<even output>]{ \thepage \textit{ of}   \pageref{LastPage}}
+
+
+
+
+\usepackage{pgfplots}
+
+
+\pgfmathdeclarefunction{gauss}{2}{%
+  \pgfmathparse{1/(#2*sqrt(2*pi))*exp(-((x-#1)^2)/(2*#2^2))}%
+ }
+ 
+\usepackage[round]{natbib}
+\begin{document}
+
+%\noindent
+%\textsc{\large \bf Lottery propositions, bracketing, and epistemic closure.}
+
+\thispagestyle{empty}
+
+\vspace{-2cm}
+\noindent
+\section*{\Large Legal Probabilism} 
+\subsection*{Marcello Di Bello -- ASU}
+\subsection*{Lesson plan \#2 -- August 29, 2024}
+
+\vspace{5mm}
+
+
+\begin{enumerate}
+\item Recap from last time: prosecuror's fallacy in the Collins case.
+\item How do we assess the probability that the Collins were guilty?
+\item Answer: Bayes' theorem
+\begin{enumerate}
+\item Explain the theorem using the medical example
+\item Play video and ask what is wrong in the video
+\item Run calculations in the Collins case
+\end{enumerate}
+
+\item Move DNA evidence
+\begin{enumerate}
+\item Present stylized case, keep it simple
+\item How DNA evidence works
+\item Parallels with Collins case,
+\item Other types of identification evidence: fingerprints, blood, hair, glass and eyewitness 
+\item Have students run Bayes' theorem with DNA evidence 
+\end{enumerate}
+\item Faulty reasoning with statistics/probability evidence (esp.\ with DNA evidence):
+ %
+\begin{enumerate}
+\item Inversion fallacy: since there is a low probability that a random individual would have a DNA that matches, and since the suspect does have 
+a DNA that matches, there is a low probability that the suspect is a random individual. This confuses $P(\textit{match}| \textit{random})$ and $P(\textit{random}| \textit{match})$.
+\item Base rate fallacy: since a test is highly reliable, there is a high probability that the result of the test is correct. This neglects the base rate probability of a certain event (match, disease, etc.), regardless 
+of the test result. 
+\item Uniqueness fallacy: since the DNA profile has a frequency of 1 in 50 billion, and the population of the earth is only 6 billion, the DNA profile must be unique. 
+\begin{itemize}
+\item Suppose a DNA profile has a frequency $f$ of one n 10 billion. Now, consider the population without the accused. Then, $f(1-f)^{7,000,000,000}$ is the probability that 
+no one in 6 billion people \textit{plus one} 
+has that DNA profile with a frequency $f$. This is roughly equivalent to 0.5. So, the probability that at least one has the profile is 0.5.
+\end{itemize}
+\item Database fallacy: since several individuals with the same DNA profile were found in a relatively small database (60,000 entries), it must be false that the DNA profile has a low frequency  (1 in 100 million).
+\begin{itemize}
+\item Birthday paradox. take 23 people in a room. Then $\frac{365 \times (365-1) \times \dots (365-n+1)}{365^{23}}\approx 0.5$ is the probability that NO pair of people with matching birthdays is found. 
+So, 0.5 is the probability that AT LEAST one pair of people with matching birthday is found. Even if the probability of a birthday falling on one specific day is as low as 1 in 365, you only need 23 people to have at least a 0.5 chance of finding a pair of people with the same birthday. With 30 people, the probability becomes roughly 70 percent. 
+\end{itemize}
+\item Another alleged fallacy. Read the NY Times article on the Amanda Knox case. The author claims that performing the same test twice on a DNA trace would finally unravel the truth about the case. 
+If you find a match twice, that makes the result much more robust than if you find it only once. This argument is true if the two outcomes of the test are independent of one another. Maybe there are reasons to think that both outcomes would be biased, e.g.\ the available DNA traces are too small to be analyzed, so a second test would not help. See Kaye's blog response. 
+\end{enumerate}
+%
+\item We can endorse two different approaches:
+\begin{enumerate}
+\item Since people are so bad with probabilities, we should train judges and jurors to use them properly, and Bayes' theorem is helpful in that respect. At least, 
+it allows us to avoid both the inversion and base rate fallacy. 
+\item Since it is so hard to reasons with statistics and probability, and maybe even trained mathematicians can get things wrong, let us do away with numbers altogether in court cases. 
+\end{enumerate}
+%
+\item So, should we use numbers/statistics/probabilities at all in a court of law?
+%
+\begin{enumerate} 
+\item Maybe we can reason rigorously without probabilities and numbers.
+\begin{enumerate}
+\item After all, in criminal trials we are dealing with events that are improbable, so what is the point of reasoning with probabilities?
+\item ``\textit{How often have I said to you that when you have eliminated the impossible whatever remains, HOWEVER IMPROBABLE, must be the truth? We know that he did not come through the door, the window, or the chimney. We also know that he could not have been concealed in the room, as there is no concealment possible. Whence, then, did he come?} From Conan Doyle, \textit{The Sign of Four} (1890).
+\end{enumerate}
+\item One problem with a purely non-numerical approach is the widespread 
+use of statistics and numbers, especially when it comes to 
+DNA evidence and its presentation. This brings up the question, how should DNA evidence be presented?
+Can numbers really be avoided when we present DNA evidence to the court and the jurors? Some of the options are
+\begin{enumerate}
+\item Match alone. \textit{Problem}: information about significance of the match (i.e.\ frequency of DNA profile) is missing.
+\item Match and estimated frequency of the DNA profile (or Random Match Probability). \textit{Problem}: if frequency is law, jurors might commit the inversion fallacy.
+\item Match and probability that the defendant is the source using Bayes' theorem. \textit{Problem}: it is hard to arrive at a precise probability here.
+\end{enumerate}
+\end{enumerate}
+%
+\item Legal probabilism.
+\begin{enumerate}
+\item QUANTIFICATION CLAIM: guilt can be quantified probabilistically.
+\item THRESHOLD CLAIM: whenever the defendant's guilt reaches a certain probabilistic threshold, a conviction should 
+be issued because the criminal standard of proof has been met. 
+\item COMMENT: Both these claims can be read as proposing an effective procedure, or more as an idealization or regulative ideal. 
+\end{enumerate}
+%
+\item Against the threshold claim, there are some well-known hypothetical scenarios: Blue Bus, Prisoners, Gatecrashers, Summers and Tice, etc. 
+%
+\item Nesson
+\begin{enumerate}
+\item The threshold claim might serve the goal of truth, but it undermines the authority of verdicts. Whenever guilt is explicitly quantified and an openly numerical threshold is adopted, the decision of the jurors can be immediately subject to public scrutiny. It then becomes too easy to criticize a verdict. A non-mathematical standard of proof, instead, leaves the needed ambiguity. 
+\begin{enumerate}
+\item The obvious criticism here is that this is a cynical position to take.
+\item Also, it is important to note that the threshold claim does NOT serve the goal of truth, if truth is understood as the reduction of errors. Use a Signal Detection Theory diagram to make this point. Setting a probabilistic threshold to a high (or low) value serves the goal of \textit{distributing} errors in a certain way (i.e. by lowering the rate of wrongful convictions even at the cost of keeping the rate of wrongful acquittals artificially high), but it does not serve the goal of \textit{reducing} errors. 
+\item Nesson, however, has the merit of focusing on the question ``\textit{what do we want the criminal standard to do?}'' Depending on how we answer this question, we may be justified in dismissing or endorsing the threshold claim. 
+\end{enumerate}
+\item In a later article, Nesson argues that the logic of legal proof requires to focus on the facts, on what happened or not happened, and not on whether or not the evidence strongly or weakly supports a certain reconstruction of what happened. The judgment should be a judgment about the facts, not a judgment about the evidence (or about whether the evidence supports certain facts with a sufficiently high probability). 
+\begin{enumerate}
+\item Note the difference between the verdict ``not guilty'' and the verdict ``not proven guilty''. There seems to be a preference of the criminal justice in portraying itself as being about facts, not about whether the evidence supports such facts. What social and political function does this posture or ``illusion'' promote? 
+\item It may have to do---once more---with shielding the justice system from possible criticisms.
+\end{enumerate}
+\end{enumerate}
+
+\end{enumerate}
+
+
+
+\end{document}

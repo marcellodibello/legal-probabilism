@@ -1,0 +1,127 @@
+%\documentclass[11pt]{book}
+\documentclass[12pt]{article}
+%\documentclass[11pt]{amsart}
+%\documentclass[preprint,12pt]{elsarticle}
+\usepackage{multirow}
+\usepackage[all]{xy}
+\usepackage{verbatim} 
+\usepackage{endnotes}
+\usepackage{amssymb} 
+\usepackage{setspace} 
+%\doublespacing
+%\onehalfspacing
+%\usepackage{mathabx}
+\usepackage{amsmath}
+
+\usepackage{footmisc}
+\renewcommand{\footnotelayout}{\doublespacing}
+
+%\usepackage{diagrams}
+
+%\usepackage{bookman}
+%\usepackage{helvet}
+\usepackage{palatino}
+%\usepackage{times}
+
+
+%\usepackage{charter}
+%\usepackage{avant}
+%\usepackage{chancery}
+%\usepackage{utopia}
+
+\def\setgrouptext#1{\gdef\grouptext{#1}}
+\newenvironment{groupeditems}{\begin{displaymath}\left.\vbox\bgroup\setgrouptext}{%
+  \egroup\right\rbrace\hbox{\grouptext}\end{displaymath}}
+  
+\usepackage{fancyhdr}
+
+%\pagestyle{fancy}
+
+\usepackage{sectsty}
+%\allsectionsfont{\sffamily} 
+\chapterfont{\Large \scshape}
+\sectionfont{\large \scshape }
+\subsectionfont{\normalsize \scshape}
+%\subsectionfont{\large \nohang \flushleft} 
+%\allsectionsfont{\mdseries\itshape} 
+%\sectionfont{\fontfamily{ptm}\selectfont}
+
+ %\usepackage{fullpage}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{lastpage}
+
+\usepackage{fancyhdr}
+\setlength{\headheight}{15.2pt}
+\pagestyle{fancy}
+
+%\rhead[<even output>]{\textsc{\large Dissertation Summary} --  \thepage \textit{ of}   \pageref{LastPage}}
+\rhead[<even output>]{\textsc{\small  Probability \& the Law } -- \ \thepage \textit{ of}   \pageref{LastPage}}
+%\chead[<even output>]{<odd output>}
+\lhead[<even output>]{\text{\small }}
+
+%\lfoot[<even output>]{<odd output>}
+\cfoot[<even output>]{}
+%\rfoot[<even output>]{ \thepage \textit{ of}   \pageref{LastPage}}
+
+
+
+
+\usepackage{pgfplots}
+
+
+\pgfmathdeclarefunction{gauss}{2}{%
+  \pgfmathparse{1/(#2*sqrt(2*pi))*exp(-((x-#1)^2)/(2*#2^2))}%
+ }
+ 
+\usepackage[round]{natbib}
+\begin{document}
+
+%\noindent
+%\textsc{\large \bf Lottery propositions, bracketing, and epistemic closure.}
+
+\thispagestyle{empty}
+
+\vspace{-2cm}
+\noindent
+\section*{\large Legal Probabilism} 
+\subsection*{Marcello Di Bello -- ASU}
+\subsection*{Reading Guide -- Week \#1}
+
+
+
+\vspace{1cm}
+
+\paragraph{Collins.} While reading the \textit{Collins} opinion, skip the first two pages and begin 
+reading at page 3. Please make sure you understand:
+
+\begin{itemize}
+\item[-] the undisputed and the disputed facts  (pp. 3--6);
+
+\item[-] the role of statistical/probabilistic evidence (pp. 6,7); and
+
+\item[-]the objections by the California Sup.\ Ct.\ against statistical/probabilistic evidence as used in the case (pp. 7--11).
+\end{itemize}
+
+To understand the opinion (pp. 3--11), you should be familiar with the \textit{product rule}.\footnote{The product rule says that if two events are independent, their joint probability is the product of their probabilities. Here is a standard example. Let $T$ stand for ``the coin lands tails'' and $TT$ for ``the coin lands tails twice in a row.'' Given a fair coin, $P(T)=.5$, and by the product rule, $P(TT)=P(T) \times P(T) =.25$, \textit{if the two coin tosses are independent.} You might ask: What does it mean that two events are independent? The simple answer is that two events are independent if the occurrence of one does not affect the probability of the other.} There is also a mathematical appendix (pp.\ 11-12). Please have a look at it.  If you have difficulties with it, no problem. We will go over it during class. 
+%And please feel free to voice your questions and doubts about \textit{Collins} during class, over email, or in your response paper. 
+
+\paragraph{Finkelstein-Levin.}
+
+The Finkelstein-Levin excerpt contains some good background material. There is no need to read it all; it is a lot of material. Please have a look at the discussion of the \textit{Collins} case, paragraph 3.1.1 (pp.\ 63-65). Give some thought to the questions on page 65.
+
+
+\paragraph{Precis.} Your precis should be one of the following:
+
+\begin{itemize}
+\item[-] a summary of the Court objections to the introduction of statistical evidence in \textit{Collins};
+\item[-] a summary and discussion of the mathematical appendix; 
+\item[-] a well-thought answer to one of the questions by Finkelstein-Levin (p.\ 65); or
+\item[-] some combination of the above items.
+\end{itemize}
+
+\noindent
+A precis should be no more than one page. If you want to write more, that's fine, but do not exaggerate! 
+Be clear, simple, and concise. Due at the beginning of class.
+
+\end{document}
