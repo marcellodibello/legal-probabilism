@@ -224,9 +224,9 @@ probability theory.
 
 *Guides, handouts and notes*
 
-- [Reading guide week #1](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek1.pdf)
+- [Reading guide week 1](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek1.pdf)
 
-- [Handout week #1](https://www.marcellodibello.com/legal-probabilism/handout/LP-handout1-2024.pdf)
+- [Handout week 1](https://www.marcellodibello.com/legal-probabilism/handout/LP-handout1-2024.pdf)
 
 
 *Primary readings*
