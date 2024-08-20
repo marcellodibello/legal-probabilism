@@ -228,6 +228,7 @@ probability theory.
 
 - [Handout week #1](https://www.marcellodibello.com/legal-probabilism/handout/LP-handout1-2024.pdf)
 
+
 *Primary readings*
 
 - [People v. Collins](https://www.marcellodibello.com/mathtrial/resources/Collins1968.pdf) (1968)
