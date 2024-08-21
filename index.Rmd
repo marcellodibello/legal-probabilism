@@ -206,8 +206,6 @@ included in the course materials.
 *Please come talk to me before you start working on the research paper.* 
 
 
-# Handouts 
-
 # Schedule 
 
 ## 8/22
@@ -247,6 +245,13 @@ Match evidence, such as DNA and fingerprint evidence, offers the clearest
 example of how probability and statistics can help to weigh evidence.  We will discuss how 
 match evidence works, and the debates about how it should be presented at trial. 
 We will continue learning about probability theory.
+
+*Guides, handouts and notes*
+
+- [Reading guide week 2](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek2.pdf)
+
+- [Handout week 2](https://www.marcellodibello.com/legal-probabilism/handout/.pdf)
+
 
 *Primary readings*
 
