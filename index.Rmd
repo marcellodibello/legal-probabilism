@@ -107,7 +107,7 @@ pre { /* Code block - determines code spacing between lines */
 -->
 
 
-Th	3:00-5:50 PM in Tempe, [COOR](https://www.asu.edu/map/interactive/?psCode=COOR) 3301  
+Th	3:00-5:50 PM in Tempe, ~~[COOR](https://www.asu.edu/map/interactive/?psCode=COOR) 3301~~ ED 236 
 
 <!-- ~~3301~~ 3323   --->
 
