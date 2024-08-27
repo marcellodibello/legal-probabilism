@@ -270,31 +270,7 @@ We will continue learning about probability theory.
 ##  9/5
 
 
-**Week 3: Profiling**
-
-There is little doubt that match evidence should be used at trial as evidence of guilt, for example, when the defendant matches the crime traces. But what about evidence that people with certain traits are extremely likely to a commit a crime? For example, data show that people who committed a sexual offense are very likely to commit it again. How should this information be used at trial?
-
-
-*Primary readings*
-
-
-<!-- [United States v. Vue](https://casetext.com/case/us-v-vue) (1994)-->
-
-- Pundik (2017), [Freedom and Generalization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2556690)
-
-- Redmayne (2003), [The Relevance of Bad Character](https://www.cambridge.org/core/journals/cambridge-law-journal/article/abs/relevance-of-bad-character/8876D6D820853C4B38E5914494682BA1)
-
-*Additional readings*
-
-- Aviv (2013), [The Science of Sex Abuse](https://www.marcellodibello.com/phil90L/resources/AvivSexAbuseNewYorker2013.pdf)
-
-- Di Bello and O'Oneil (2020), [Profile Evidence, Fairness, and the Risks of Mistaken Convictions](https://www.journals.uchicago.edu/doi/full/10.1086/705764)
-
-
-## 9/12
-
-
-**Week 4: Unlikely coincidences**
+**Week 3: Unlikely coincidences**
 
 If a suspiciously high number of people 
 die in a hospital when a nurse is on duty---much higher than when 
@@ -316,6 +292,30 @@ were used---actually, abused!---to conclude that a wrongdoing occurred.
 
 - Fienberg and Kaye (1991), [Legal and Statistical Analysis of some Mysterious Clusters](https://www.marcellodibello.com/mathtrial/resources/FienbergKayeCluster1991.pdf)
 
+
+
+## 9/12
+
+
+**Week 4: Profiling**
+
+There is little doubt that match evidence should be used at trial as evidence of guilt, for example, when the defendant matches the crime traces. But what about evidence that people with certain traits are extremely likely to a commit a crime? For example, data show that people who committed a sexual offense are very likely to commit it again. How should this information be used at trial?
+
+
+*Primary readings*
+
+
+<!-- [United States v. Vue](https://casetext.com/case/us-v-vue) (1994)-->
+
+- Pundik (2017), [Freedom and Generalization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2556690)
+
+- Redmayne (2003), [The Relevance of Bad Character](https://www.cambridge.org/core/journals/cambridge-law-journal/article/abs/relevance-of-bad-character/8876D6D820853C4B38E5914494682BA1)
+
+*Additional readings*
+
+- Aviv (2013), [The Science of Sex Abuse](https://www.marcellodibello.com/phil90L/resources/AvivSexAbuseNewYorker2013.pdf)
+
+- Di Bello and O'Oneil (2020), [Profile Evidence, Fairness, and the Risks of Mistaken Convictions](https://www.journals.uchicago.edu/doi/full/10.1086/705764)
 
 
 ## 9/19
