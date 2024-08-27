@@ -250,8 +250,9 @@ We will continue learning about probability theory.
 
 - [Reading guide week 2](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek2.pdf)
 
-- [Handout week 2](https://www.marcellodibello.com/legal-probabilism/handout/.pdf)
+- [Handout week 2](https://www.marcellodibello.com/legal-probabilism/handout/LP-handout2-2024.pdf)
 
+- [Handout Bayes's theorem](https://www.marcellodibello.com/legal-probabilism/handout/BayesTheorem-handout.pdf)
 
 *Primary readings*
 
