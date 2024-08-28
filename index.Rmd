@@ -246,7 +246,7 @@ example of how probability and statistics can help to weigh evidence.  We will d
 match evidence works, and the debates about how it should be presented at trial. 
 We will continue learning about probability theory.
 
-*Guides, handouts and notes*
+*Guides, handouts, notes, etc.*
 
 - [Reading guide week 2](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek2.pdf)
 
