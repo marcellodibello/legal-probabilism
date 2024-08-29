@@ -252,6 +252,8 @@ We will continue learning about probability theory.
 
 - [Handout week 2](https://www.marcellodibello.com/legal-probabilism/handout/LP-handout2-2024.pdf)
 
+- [Basics of Probability](https://www.marcellodibello.com/phi169/resources/Intro-Prob-Basics.pdf)
+
 - [Handout Bayes's theorem](https://www.marcellodibello.com/legal-probabilism/handout/BayesTheorem-handout.pdf)
 
 - [Handout betting interpretation](https://www.marcellodibello.com/legal-probabilism/handout/Betting-Interp-DutchBook.pdf.pdf)
