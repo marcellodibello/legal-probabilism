@@ -254,6 +254,8 @@ We will continue learning about probability theory.
 
 - [Handout Bayes's theorem](https://www.marcellodibello.com/legal-probabilism/handout/BayesTheorem-handout.pdf)
 
+- [Handout betting interpretation](https://www.marcellodibello.com/legal-probabilism/handout/Betting-Interp-DutchBook.pdf.pdf)
+
 *Primary readings*
 
 - [People v. Rush](https://www.marcellodibello.com/mathtrial/resources/Rush1995.pdf) (1995)
