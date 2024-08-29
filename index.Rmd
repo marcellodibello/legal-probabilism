@@ -263,6 +263,7 @@ We will continue learning about probability theory.
 - Wasserman (2004), [Forensic DNA Typing](https://www.marcellodibello.com/mathtrial/resources/WassermanDNA2008.pdf)
 
 *Additional readings*
+
 - Haavik(2016), [It's a match. Or is it?](https://www.apmreports.org/story/2016/09/13/dna-match)
 
 - Koehler (1993), [Error and Exaggeration in the Presentation of DNA Evidence](https://www.marcellodibello.com/mathtrial/resources/KoehlerDNAPres1993.pdf)
