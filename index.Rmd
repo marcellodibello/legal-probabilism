@@ -284,6 +284,12 @@ We will look at two infamous cases,
 Lucia de Berk and Sally Clark, in which statistics about unlikely coincidences
 were used---actually, abused!---to conclude that a wrongdoing occurred.
 
+*Guides, handouts, notes, etc.*
+
+- [Reading guide week 3](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek3.pdf)
+
+
+
 *Primary readings*
 
 - [R v Clark](https://www.marcellodibello.com/mathtrial/resources/SallyClarkSecondAppeal2003.pdf) (2003)
