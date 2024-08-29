@@ -220,7 +220,7 @@ discussing the infamous case People v. Collins (1968). This case started the law
 debate in the United States back in the 70ies. Along the way, we will learn the basics of 
 probability theory.
 
-*Guides, handouts and notes*
+*Guides, handouts, notes, etc.*
 
 - [Reading guide week 1](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek1.pdf)
 
@@ -261,6 +261,7 @@ We will continue learning about probability theory.
 - Wasserman (2004), [Forensic DNA Typing](https://www.marcellodibello.com/mathtrial/resources/WassermanDNA2008.pdf)
 
 *Additional readings*
+- Haavik(2016), [It's a match. Or is it?](https://www.apmreports.org/story/2016/09/13/dna-match)
 
 - Koehler (1993), [Error and Exaggeration in the Presentation of DNA Evidence](https://www.marcellodibello.com/mathtrial/resources/KoehlerDNAPres1993.pdf)
 
