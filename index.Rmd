@@ -323,7 +323,7 @@ There is little doubt that match evidence should be used at trial as evidence of
 
 <!-- [United States v. Vue](https://casetext.com/case/us-v-vue) (1994)-->
 
-- Pundik (2017), [Freedom and Generalization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2556690)
+- Pundik (2020), [Predictive Evidence and Unpredictable Freedom](readings/Pundik-PredEvidenceUnpredFree)
 
 - Redmayne (2003), [The Relevance of Bad Character](https://www.cambridge.org/core/journals/cambridge-law-journal/article/abs/relevance-of-bad-character/8876D6D820853C4B38E5914494682BA1)
 
