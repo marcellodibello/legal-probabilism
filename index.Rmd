@@ -305,6 +305,9 @@ were used---actually, abused!---to conclude that a wrongdoing occurred.
 
 - Fienberg and Kaye (1991), [Legal and Statistical Analysis of some Mysterious Clusters](https://www.marcellodibello.com/mathtrial/resources/FienbergKayeCluster1991.pdf)
 
+- Dotto, Gill and Mortera (2022), [Statistical Analyses in the Case of an Italian Nurse Accused of Murdering Patients](https://arxiv.org/pdf/2202.08895)
+
+- Gill,  Groeneboom and de Jong (2019), [Elementary Statistics on Trial: the Case of Lucia de Berk](https://arxiv.org/pdf/1009.0802)
 
 
 ## 9/12
