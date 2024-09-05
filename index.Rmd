@@ -318,14 +318,19 @@ were used---actually, abused!---to conclude that a wrongdoing occurred.
 There is little doubt that match evidence should be used at trial as evidence of guilt, for example, when the defendant matches the crime traces. But what about evidence that people with certain traits are extremely likely to a commit a crime? For example, data show that people who committed a sexual offense are very likely to commit it again. How should this information be used at trial?
 
 
+*Guides, handouts, notes, etc.*
+
+- [Reading guide week 4](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek4.pdf)
+
+
 *Primary readings*
 
 
 <!-- [United States v. Vue](https://casetext.com/case/us-v-vue) (1994)-->
 
-- Pundik (2020), [Predictive Evidence and Unpredictable Freedom](readings/Pundik-PredEvidenceUnpredFree.pdf)
-
 - Redmayne (2003), [The Relevance of Bad Character](https://www.cambridge.org/core/journals/cambridge-law-journal/article/abs/relevance-of-bad-character/8876D6D820853C4B38E5914494682BA1)
+
+- Pundik (2020), [Predictive Evidence and Unpredictable Freedom](readings/Pundik-PredEvidenceUnpredFree.pdf)
 
 *Additional readings*
 
