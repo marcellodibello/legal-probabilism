@@ -371,7 +371,6 @@ measures of the value of the evidence.
 
 - Dawid (2001), [Bayes’s Theorem and Weighing Evidence by Juries](https://www.researchgate.net/publication/245581914_Bayes's_Theorem_And_Weighing_Evidence_by_Juries)
 
-
 *Additional readings*
 
 - Fenton (2011), [Improve Statistics in Court](https://www.nature.com/articles/479036a)
