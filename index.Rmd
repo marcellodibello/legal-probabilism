@@ -360,6 +360,11 @@ the defendant is guilty, but there are also different probabilistic
 measures of the value of the evidence.
 
 
+*Guides, handouts, notes, etc.*
+
+- [Reading guide week 5](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek5.pdf)
+
+
 *Primary readings*
 
 - [Regina v. T](https://www.bailii.org/ew/cases/EWCA/Crim/2010/2439.pdf) (2010)
@@ -370,6 +375,8 @@ measures of the value of the evidence.
 *Additional readings*
 
 - Fenton (2011), [Improve Statistics in Court](https://www.nature.com/articles/479036a)
+
+- Hamer (2012), [The R v T Controversy: Forensic Evidence, Law and Logic](https://academic.oup.com/lpr/article/11/4/331/932226) 
 
 - Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 1 and 2](https://plato.stanford.edu/entries/legal-probabilism/#ProbTool)
 
