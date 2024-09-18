@@ -364,6 +364,8 @@ measures of the value of the evidence.
 
 - [Reading guide week 5](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek5.pdf)
 
+- [Notes Dawid](https://www.marcellodibello.com/legal-probabilism/handout/LP-Dawid-comments.pdf)
+
 
 *Primary readings*
 
