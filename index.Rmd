@@ -389,6 +389,10 @@ measures of the value of the evidence.
 Once the evidence has been presented and evaluated, a decision must be made. 
 To this end, legal standard of proof serves as decision criteria, for example, convict only if the defendant's guilt was established beyond a reasonable doubt. Since these standards are not precise, legal probabilists have translated them in the more precise language of probability and statistics. The usefulness of this translation is debated because eliminating all reasonable doubts about someone's guilt seems to require more than establishing a high probability of guilt.
 
+*Guides, handouts, notes, etc.*
+
+- [Reading guide week 6](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek6.pdf)
+
 
 *Primary readings*
 
