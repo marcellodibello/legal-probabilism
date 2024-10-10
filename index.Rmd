@@ -462,7 +462,7 @@ The first part of the class will consist in a Q&A session with [Ronald Allen](ht
 
 *Primary readings*
 
-- Pardo and Allen (2007), [Juridical Proof and Inference and the Best Explanatiopn](https://sites.pitt.edu/~jdnorton/teaching/2682_confirmation/2021/slides/evidence_in_science/Pardo_Allen_2007.pdf)
+- Pardo and Allen (2008), [Juridical Proof and Inference and the Best Explanatiopn](https://sites.pitt.edu/~jdnorton/teaching/2682_confirmation/2021/slides/evidence_in_science/Pardo_Allen_2007.pdf)
 
 - Allen (2017), [The Nature of Juridical Proof: Probability as a Tool in Plausible Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2982121)
 
