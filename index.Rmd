@@ -491,7 +491,7 @@ The first two are legal scholars and philosophers, and the third is a cognitive 
 
 *Primary readings*
 
-- Pennington and Hastie (1993), 'The Story Model for Juror Decision Making', in Inside the Juror: The Psychology of Juror Decision Making - *check canvas*
+- Pennington and Hastie (1993), [The Story Model for Juror Decision Making](https://www.marcellodibello.com/legal-probabilism/readings/Hastie-story-model.pdf), in Inside the Juror: The Psychology of Juror Decision Making 
 
 - Fenton and other (2019), [Analyzing the Simonshaven Case Using Bayesian Networks](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12417)
 
