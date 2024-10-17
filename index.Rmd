@@ -504,6 +504,8 @@ The first two are legal scholars and philosophers, and the third is a cognitive 
 
 *Additional readings*
 
+-  Mackor and van Koppen(2021), [The Scenario Theory about Evidence in Criminal Law](https://pure.rug.nl/ws/portalfiles/portal/645674351/oso_9780198859307_chapter_16.pdf)
+
 - Dahlman and Mackor (2019), [Coherence and Probability in Legal Evidence](https://lucris.lub.lu.se/ws/portalfiles/portal/75903137/Coherence_and_probability_in_legal_evidence.pdf)
 
 - Urbaniak and Di Bello (2021), Legal Probabilism, [Sec. 3](https://plato.stanford.edu/entries/legal-probabilism/#BayeNetwForLegaAppl)
