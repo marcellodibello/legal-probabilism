@@ -525,10 +525,14 @@ Legal cases often require that multiple propositions be established. For example
 
 The first part of the class will consist in a Q&A session with [Emily Spottswood](https://law.fsu.edu/faculty-staff/emily-spottswood), a legal scholar interested in how reforms to the rules of procedure and evidence can make civil and criminal litigation more accurate and cost-effective. Emily is the author of one of the readings assigned for today.
 
+*Guides, handouts, notes, etc.*
+
+- [Reading guide week 10](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek10.pdf)
+
 
 *Primary readings*
 
-- Cohen (1977), 'The Difficulty about Conjunction', in The Probable and The Provable - *check Canvas*
+- Cohen (1977), [The Difficulty about Conjunction](https://www.marcellodibello.com/legal-probabilism/readings/Cohen-conjunction.pdf), in The Probable and The Provable 
 
 - Spottswood (2016), [Unraveling the Conjunction Paradox](https://academic.oup.com/lpr/article/15/4/259/2733187)
 
