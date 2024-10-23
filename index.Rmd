@@ -532,7 +532,7 @@ The first part of the class will consist in a Q&A session with [Emily Spottswood
 
 *Primary readings*
 
-- Cohen (1977), [The Difficulty about Conjunction](https://www.marcellodibello.com/legal-probabilism/readings/Cohen-conjunction.pdf), in The Probable and The Provable 
+- Cohen (1977), [The Difficulty about Conjunction](https://www.marcellodibello.com/legal-probabilism/readings/Cohen-conjunction-paradox.pdf), in The Probable and The Provable 
 
 - Spottswood (2016), [Unraveling the Conjunction Paradox](https://academic.oup.com/lpr/article/15/4/259/2733187)
 
