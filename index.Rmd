@@ -529,7 +529,7 @@ The first part of the class will consist in a Q&A session with [Emily Spottswood
 
 - [Reading guide week 10](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek10.pdf)
  
-- [Notes Spootswood](https://www.marcellodibello.com/legal-probabilism/handout/LP-Spottswod-comments.pdf)
+- [Notes Spootswood](https://www.marcellodibello.com/legal-probabilism/handout/LP-Spottswood-comments.pdf)
 
 
 *Primary readings*
@@ -584,8 +584,30 @@ how evidentiary rules and the allocation of decisionmaking authority in the cour
 
 ## 11/07
 
+**Week 12: Wrongful convictions**
 
-**Week 12: Eyewitness identifications**
+We have examined how probability and statistics help to evaluate evidence, piecemeal or in the aggregate, and how they can guide trial decisions. But they can also be used as tools for assessing how 
+the trial system performs as a whole, for example, how accurate it is and how often 
+innocent people are convicted. Some estimate that the rate of 
+wrongful convictions is about 3-5%. 
+
+*Primary readings*
+
+- Risinger (2007), [Innocents Convicted](https://www.marcellodibello.com/innocent/resources/risinger.pdf)
+
+
+*Additional readings*
+
+- Simon (2011), [Limited Diagnosticity of Criminal Trials](https://www.marcellodibello.com/innocent/resources/Simon-Diagnosticity2011.pdf)
+
+
+- Sangero and Halpert (2007), [Why a Conviction Should Not Be Based on a Single Piece of Evidence](https://www.marcellodibello.com/innocent/resources/sangero.pdf)
+
+
+
+## 11/14
+
+**Week 13: Eyewitness identifications**
 
 Eyewitness testimony is often the central piece of a 
 prosecutor's case against the defendant. Eyewitness evidence is not numerical 
@@ -610,26 +632,6 @@ and statistics to assess the value of eyewitness evidence. While some studies em
 - Trenary (2013), [State v. Henderson: A Model for Admitting Eyewitness Identification Testimony](https://scholar.law.colorado.edu/lawreview/vol84/iss4/10/)
 
 
-## 11/14
-
-**Week 13: Wrongful convictions**
-
-We have examined how probability and statistics help to evaluate evidence, piecemeal or in the aggregate, and how they can guide trial decisions. But they can also be used as tools for assessing how 
-the trial system performs as a whole, for example, how accurate it is and how often 
-innocent people are convicted. Some estimate that the rate of 
-wrongful convictions is about 3-5%. 
-
-*Primary readings*
-
-- Risinger (2007), [Innocents Convicted](https://www.marcellodibello.com/innocent/resources/risinger.pdf)
-
-
-*Additional readings*
-
-- Simon (2011), [Limited Diagnosticity of Criminal Trials](https://www.marcellodibello.com/innocent/resources/Simon-Diagnosticity2011.pdf)
-
-
-- Sangero and Halpert (2007), [Why a Conviction Should Not Be Based on a Single Piece of Evidence](https://www.marcellodibello.com/innocent/resources/sangero.pdf)
 
 ## 11/21
 
