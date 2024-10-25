@@ -531,6 +531,9 @@ The first part of the class will consist in a Q&A session with [Emily Spottswood
  
 - [Notes Spottswood](https://www.marcellodibello.com/legal-probabilism/handout/LP-Spottswood-comments.pdf)
 
+- [Slides Bayesian Networks](https://www.marcellodibello.com/legal-probabilism/BayesNets.pdf)
+
+
 *Primary readings*
 
 - Cohen (1977), [The Difficulty about Conjunction](https://www.marcellodibello.com/legal-probabilism/readings/Cohen-conjunction-paradox.pdf), in The Probable and The Provable 
