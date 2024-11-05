@@ -628,17 +628,15 @@ and statistics to assess the value of eyewitness evidence. While some studies em
 
 *Primary readings*
 
-- Loftus and Palmer (1974), [Reconstruction of Auto-mobile Destruction: An example of the Interaction Between Language and Memory](https://www.demenzemedicinagenerale.net/images/mens-sana/AutomobileDestruction.pdf)
-
 - Wixted and Wells (2017), [The Relationship Between Eyewitness Confidence and Identification Accuracy: A New Synthesis](https://journals.sagepub.com/stoken/default+domain/2X3HtwVgmHH7cCakgVgq/full)
-
-
-*Additional readings*
 
 - Smith et al (2020), [Evaluating the Claim that High Confidence Implies High Accuracy in Eyewitness Identification](https://www.researchgate.net/publication/343485679_Evaluating_the_Claim_that_High_Confidence_Implies_High_Accuracy_in_Eyewitness_Identification)
 
-- Trenary (2013), [State v. Henderson: A Model for Admitting Eyewitness Identification Testimony](https://scholar.law.colorado.edu/lawreview/vol84/iss4/10/)
+*Additional readings*
 
+- Loftus and Palmer (1974), [Reconstruction of Auto-mobile Destruction: An example of the Interaction Between Language and Memory](https://www.demenzemedicinagenerale.net/images/mens-sana/AutomobileDestruction.pdf)
+
+- Trenary (2013), [State v. Henderson: A Model for Admitting Eyewitness Identification Testimony](https://scholar.law.colorado.edu/lawreview/vol84/iss4/10/)
 
 
 ## 11/21
