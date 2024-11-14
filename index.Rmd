@@ -623,6 +623,11 @@ on its face---it consists of qualitative statements "I saw this or that".
 However, a growing body of research in psychology and law has deployed the tools of probability 
 and statistics to assess the value of eyewitness evidence. While some studies emphasize its many pitfalls, more recent studies offer a more nuanced picture. 
 
+*Guides, handouts, notes, etc.*
+
+- [Reading guide week 13](https://www.marcellodibello.com/legal-probabilism/guides/LP-ReadingGuideWeek13.pdf)
+ 
+- [Notes on confidence and accuracy](https://www.marcellodibello.com/legal-probabilism/handout/LP-eyewitness-confidence.pdf)
 
 
 
