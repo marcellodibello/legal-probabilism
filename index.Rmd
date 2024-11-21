@@ -652,23 +652,24 @@ and statistics to assess the value of eyewitness evidence. While some studies em
 Students will workshop their research papers by giving short presentations accompanied by either a handout or slides and followed by Q&A. Each presenter will have 20 minutes to be split between the presentation itself and Q&A at the discretion of the presenter. A tentative program is below:  
 
 
-3:00 |  Kelly | *Legal Bayesianism Leads to the Amplification of Bias*
+3:00 |  Dylan | *Thoughts on Legal Probabilism*
 
-3:20 | Chris | *Why not Both:  Stories and Bayesian Networks in the Courtroom*
+3:20 |  Kelly | *Legal Bayesianism Leads to the Amplification of Bias*
 
-3:40 | Miranda | *Applying the Story Model to the Knowledge Account of Legal Proof*
+3:40 | Chris | *Why not Both:  Stories and Bayesian Networks in the Courtroom*
 
-4:00 | Everett | *What Legal Probabilism Leaves Out*
+4:00 | Miranda | *Applying the Story Model to the Knowledge Account of Legal Proof*
 
 4:20 | *10 minutes break*
 
-4:30 | Isabella | *Legal Probabilism: A Problematic Process in the Courtroom* 
+4:30 | Everett | *What Legal Probabilism Leaves Out*
 
-4:50 | Max | *TBA*
+4:50 | Isabella | *Legal Probabilism: A Problematic Process in the Courtroom* 
 
-5:10 | TBA 
+4:10 | Max | *TBA*
 
 5:30 | TBA 
+
 
 
 
